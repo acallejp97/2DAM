@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Erakusketa\Asier_Callejo_Erakusketa\bin\Debug\Asier_Callejo_Erakusketa.exe.config
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Erakusketa\Asier_Callejo_Erakusketa\bin\Debug\Asier_Callejo_Erakusketa.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Erakusketa\Asier_Callejo_Erakusketa\bin\Debug\Asier_Callejo_Erakusketa.pdb
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Erakusketa\Asier_Callejo_Erakusketa\bin\Debug\Asier_Callejo_Erakusketa.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Erakusketa\Asier_Callejo_Erakusketa\obj\Debug\Asier_Callejo_Erakusketa.Resources.resources
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Erakusketa\Asier_Callejo_Erakusketa\obj\Debug\Asier_Callejo_Erakusketa.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Erakusketa\Asier_Callejo_Erakusketa\obj\Debug\Asier_Callejo_Erakusketa.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Erakusketa\Asier_Callejo_Erakusketa\obj\Debug\Asier_Callejo_Erakusketa.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Erakusketa\Asier_Callejo_Erakusketa\obj\Debug\Asier_Callejo_Erakusketa.pdb

@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Direktorioa\Asier_Callejo_Direktorioa\bin\Debug\Asier_Callejo_Direktorioa.exe.config
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Direktorioa\Asier_Callejo_Direktorioa\bin\Debug\Asier_Callejo_Direktorioa.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Direktorioa\Asier_Callejo_Direktorioa\bin\Debug\Asier_Callejo_Direktorioa.pdb
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Direktorioa\Asier_Callejo_Direktorioa\bin\Debug\Asier_Callejo_Direktorioa.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Direktorioa\Asier_Callejo_Direktorioa\obj\Debug\Asier_Callejo_Direktorioa.Resources.resources
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Direktorioa\Asier_Callejo_Direktorioa\obj\Debug\Asier_Callejo_Direktorioa.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Direktorioa\Asier_Callejo_Direktorioa\obj\Debug\Asier_Callejo_Direktorioa.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Direktorioa\Asier_Callejo_Direktorioa\obj\Debug\Asier_Callejo_Direktorioa.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Direktorioa\Asier_Callejo_Direktorioa\obj\Debug\Asier_Callejo_Direktorioa.pdb

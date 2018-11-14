@@ -1,0 +1,13 @@
+c:\users\in2dm3_09\documents\visual studio 2013\Projects\Kiroldegi_Definitivo\Kiroldegi_Definitivo\bin\Debug\Kiroldegi_Definitivo.exe.config
+c:\users\in2dm3_09\documents\visual studio 2013\Projects\Kiroldegi_Definitivo\Kiroldegi_Definitivo\bin\Debug\Kiroldegi_Definitivo.exe
+c:\users\in2dm3_09\documents\visual studio 2013\Projects\Kiroldegi_Definitivo\Kiroldegi_Definitivo\bin\Debug\Kiroldegi_Definitivo.pdb
+c:\users\in2dm3_09\documents\visual studio 2013\Projects\Kiroldegi_Definitivo\Kiroldegi_Definitivo\bin\Debug\Kiroldegi_Definitivo.xml
+c:\users\in2dm3_09\documents\visual studio 2013\Projects\Kiroldegi_Definitivo\Kiroldegi_Definitivo\obj\Debug\Kiroldegi_Definitivo.Resources.resources
+c:\users\in2dm3_09\documents\visual studio 2013\Projects\Kiroldegi_Definitivo\Kiroldegi_Definitivo\obj\Debug\Kiroldegi_Definitivo.vbproj.GenerateResource.Cache
+c:\users\in2dm3_09\documents\visual studio 2013\Projects\Kiroldegi_Definitivo\Kiroldegi_Definitivo\obj\Debug\Kiroldegi_Definitivo.exe
+c:\users\in2dm3_09\documents\visual studio 2013\Projects\Kiroldegi_Definitivo\Kiroldegi_Definitivo\obj\Debug\Kiroldegi_Definitivo.xml
+c:\users\in2dm3_09\documents\visual studio 2013\Projects\Kiroldegi_Definitivo\Kiroldegi_Definitivo\obj\Debug\Kiroldegi_Definitivo.pdb
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Kiroldegi_Definitivo_Mario\Kiroldegi_Definitivo\bin\Debug\Kiroldegi_Definitivo.exe.config
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Kiroldegi_Definitivo_Mario\Kiroldegi_Definitivo\obj\Debug\Kiroldegi_Definitivo.exe
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Kiroldegi_Definitivo_Mario\Kiroldegi_Definitivo\obj\Debug\Kiroldegi_Definitivo.xml
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Kiroldegi_Definitivo_Mario\Kiroldegi_Definitivo\obj\Debug\Kiroldegi_Definitivo.pdb

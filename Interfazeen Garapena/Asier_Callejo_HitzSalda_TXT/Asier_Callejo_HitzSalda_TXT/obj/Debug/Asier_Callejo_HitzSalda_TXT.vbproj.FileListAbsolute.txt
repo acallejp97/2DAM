@@ -1,0 +1,18 @@
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\bin\Debug\Asier_Callejo_HitzSalda_TXT.exe.config
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\bin\Debug\Asier_Callejo_HitzSalda_TXT.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\bin\Debug\Asier_Callejo_HitzSalda_TXT.pdb
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\bin\Debug\Asier_Callejo_HitzSalda_TXT.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\obj\Debug\Asier_Callejo_HitzSalda_TXT.Resources.resources
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\obj\Debug\Asier_Callejo_HitzSalda_TXT.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\obj\Debug\Asier_Callejo_HitzSalda_TXT.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\obj\Debug\Asier_Callejo_HitzSalda_TXT.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\obj\Debug\Asier_Callejo_HitzSalda_TXT.pdb
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\bin\Debug\Asier_Callejo_HitzSalda_TXT.exe.config
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\obj\Debug\Asier_Callejo_HitzSalda_TXT.exe
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\obj\Debug\Asier_Callejo_HitzSalda_TXT.xml
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\obj\Debug\Asier_Callejo_HitzSalda_TXT.pdb
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\bin\Debug\Asier_Callejo_HitzSalda_TXT.exe
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\bin\Debug\Asier_Callejo_HitzSalda_TXT.pdb
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\bin\Debug\Asier_Callejo_HitzSalda_TXT.xml
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\obj\Debug\Asier_Callejo_HitzSalda_TXT.Resources.resources
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_HitzSalda_TXT\Asier_Callejo_HitzSalda_TXT\obj\Debug\Asier_Callejo_HitzSalda_TXT.vbproj.GenerateResource.Cache

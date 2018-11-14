@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="numero" translatable="false">0</string>
+    <string name="dos" translatable="false">2</string>
+    <string name="tres" translatable="false">3</string>
+    <string name="cuatro" translatable="false">4</string>
+    <string name="cinco" translatable="false">5</string>
+    <string name="seis" translatable="false">6</string>
+    <string name="siete" translatable="false">7</string>
+    <string name="ocho" translatable="false">8</string>
+    <string name="nueve" translatable="false">9</string>
+    <string name="mas" translatable="false">+</string>
+    <string name="menos" translatable="false">-</string>
+    <string name="cero" translatable="false">0</string>
+    <string name="por" translatable="false">*</string>
+    <string name="dividir" translatable="false">/</string>
+    <string name="uno" translatable="false">1</string>
+    <string name="equal" translatable="false">=</string>
+    <string name="CE" translatable="false">CE</string>
+
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="pregunta">Pregunta</string>
+    <string name="verdadero">Verdadero</string>
+    <string name="falso">Falso</string>
+    <string name="bien">Respuesta correcta</string>
+    <string name="mal">Respuesta incorrecta</string>
+    <string name="pregunta1">¿True?</string>
+    <string name="pregunta2">¿False?</string>
+    <string name="pregunta3">¿True?</string>
+    <string name="pregunta4">¿True?</string>
+    <string name="pregunta5">¿False?</string>
+</resources>

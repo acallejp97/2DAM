@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Datak\Asier_Callejo_Datak\bin\Debug\Asier_Callejo_Datak.exe.config
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Datak\Asier_Callejo_Datak\bin\Debug\Asier_Callejo_Datak.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Datak\Asier_Callejo_Datak\bin\Debug\Asier_Callejo_Datak.pdb
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Datak\Asier_Callejo_Datak\bin\Debug\Asier_Callejo_Datak.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Datak\Asier_Callejo_Datak\obj\Debug\Asier_Callejo_Datak.Resources.resources
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Datak\Asier_Callejo_Datak\obj\Debug\Asier_Callejo_Datak.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Datak\Asier_Callejo_Datak\obj\Debug\Asier_Callejo_Datak.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Datak\Asier_Callejo_Datak\obj\Debug\Asier_Callejo_Datak.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Datak\Asier_Callejo_Datak\obj\Debug\Asier_Callejo_Datak.pdb

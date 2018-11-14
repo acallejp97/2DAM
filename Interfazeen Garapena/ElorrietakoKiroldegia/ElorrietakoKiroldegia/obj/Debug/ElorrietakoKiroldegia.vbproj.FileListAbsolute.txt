@@ -1,0 +1,9 @@
+F:\VisualBasic\Visual projects\ElorrietakoKiroldegia\ElorrietakoKiroldegia\bin\Debug\ElorrietakoKiroldegia.exe.config
+F:\VisualBasic\Visual projects\ElorrietakoKiroldegia\ElorrietakoKiroldegia\bin\Debug\ElorrietakoKiroldegia.exe
+F:\VisualBasic\Visual projects\ElorrietakoKiroldegia\ElorrietakoKiroldegia\bin\Debug\ElorrietakoKiroldegia.pdb
+F:\VisualBasic\Visual projects\ElorrietakoKiroldegia\ElorrietakoKiroldegia\bin\Debug\ElorrietakoKiroldegia.xml
+F:\VisualBasic\Visual projects\ElorrietakoKiroldegia\ElorrietakoKiroldegia\obj\Debug\ElorrietakoKiroldegia.Resources.resources
+F:\VisualBasic\Visual projects\ElorrietakoKiroldegia\ElorrietakoKiroldegia\obj\Debug\ElorrietakoKiroldegia.vbproj.GenerateResource.Cache
+F:\VisualBasic\Visual projects\ElorrietakoKiroldegia\ElorrietakoKiroldegia\obj\Debug\ElorrietakoKiroldegia.exe
+F:\VisualBasic\Visual projects\ElorrietakoKiroldegia\ElorrietakoKiroldegia\obj\Debug\ElorrietakoKiroldegia.xml
+F:\VisualBasic\Visual projects\ElorrietakoKiroldegia\ElorrietakoKiroldegia\obj\Debug\ElorrietakoKiroldegia.pdb

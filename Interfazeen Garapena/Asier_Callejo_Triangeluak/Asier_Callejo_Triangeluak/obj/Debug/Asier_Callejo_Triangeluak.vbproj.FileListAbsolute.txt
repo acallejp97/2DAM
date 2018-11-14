@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Triangeluak\Asier_Callejo_Triangeluak\bin\Debug\Asier_Callejo_Triangeluak.exe.config
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Triangeluak\Asier_Callejo_Triangeluak\obj\Debug\Asier_Callejo_Triangeluak.Resources.resources
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Triangeluak\Asier_Callejo_Triangeluak\obj\Debug\Asier_Callejo_Triangeluak.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Triangeluak\Asier_Callejo_Triangeluak\bin\Debug\Asier_Callejo_Triangeluak.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Triangeluak\Asier_Callejo_Triangeluak\bin\Debug\Asier_Callejo_Triangeluak.pdb
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Triangeluak\Asier_Callejo_Triangeluak\bin\Debug\Asier_Callejo_Triangeluak.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Triangeluak\Asier_Callejo_Triangeluak\obj\Debug\Asier_Callejo_Triangeluak.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Triangeluak\Asier_Callejo_Triangeluak\obj\Debug\Asier_Callejo_Triangeluak.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Triangeluak\Asier_Callejo_Triangeluak\obj\Debug\Asier_Callejo_Triangeluak.pdb

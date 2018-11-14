@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HandiaTxikia\Asier_Callejo_HandiaTxikia\bin\Debug\Asier_Callejo_HandiaTxikia.exe.config
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HandiaTxikia\Asier_Callejo_HandiaTxikia\bin\Debug\Asier_Callejo_HandiaTxikia.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HandiaTxikia\Asier_Callejo_HandiaTxikia\bin\Debug\Asier_Callejo_HandiaTxikia.pdb
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HandiaTxikia\Asier_Callejo_HandiaTxikia\bin\Debug\Asier_Callejo_HandiaTxikia.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HandiaTxikia\Asier_Callejo_HandiaTxikia\obj\Debug\Asier_Callejo_HandiaTxikia.Resources.resources
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HandiaTxikia\Asier_Callejo_HandiaTxikia\obj\Debug\Asier_Callejo_HandiaTxikia.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HandiaTxikia\Asier_Callejo_HandiaTxikia\obj\Debug\Asier_Callejo_HandiaTxikia.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HandiaTxikia\Asier_Callejo_HandiaTxikia\obj\Debug\Asier_Callejo_HandiaTxikia.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_HandiaTxikia\Asier_Callejo_HandiaTxikia\obj\Debug\Asier_Callejo_HandiaTxikia.pdb

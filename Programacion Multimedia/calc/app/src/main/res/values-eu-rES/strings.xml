@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulagailua</string>
+    <string name="ajustes">Ezarpenak</string>
+    <string name="Deshabilitar">Ezgaitu</string>
+    <string name="Suma">Gehiketa</string>
+    <string name="Resta">Kenketa</string>
+    <string name="Multi">Biderketa</string>
+    <string name="Divi">Zatiketa</string>
+    <string name="Raiz">Erro karratu</string>
+    <string name="Porcent">Ehunekoa</string>
+    <string name="Fondo">Sakoneraren kolorea</string>
+    <string name="Negro">Beltza</string>
+    <string name="Blanco">Zuria</string>
+    <string name="Gris">Grisa</string>
+    <string name="Botones">Botoien kolorea</string>
+    <string name="Azul">Urdina</string>
+    <string name="Rosa">Arrosa</string>
+    <string name="Idioma">Hizkuntza</string>
+    <string name="Euskera">Euskera</string>
+    <string name="Espanol">Gaztelania</string>
+    <string name="Ingles">Ingelesa</string>
+    <string name="action_settings">Ezarpenak</string>
+</resources>

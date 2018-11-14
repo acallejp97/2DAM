@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Visual Basic\Visual projects\kiroldegia\kiroldegia\bin\Debug\kiroldegia.exe.config
+C:\Users\PC\Desktop\Visual Basic\Visual projects\kiroldegia\kiroldegia\bin\Debug\kiroldegia.exe
+C:\Users\PC\Desktop\Visual Basic\Visual projects\kiroldegia\kiroldegia\bin\Debug\kiroldegia.pdb
+C:\Users\PC\Desktop\Visual Basic\Visual projects\kiroldegia\kiroldegia\bin\Debug\kiroldegia.xml
+C:\Users\PC\Desktop\Visual Basic\Visual projects\kiroldegia\kiroldegia\obj\Debug\kiroldegia.Resources.resources
+C:\Users\PC\Desktop\Visual Basic\Visual projects\kiroldegia\kiroldegia\obj\Debug\kiroldegia.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Visual Basic\Visual projects\kiroldegia\kiroldegia\obj\Debug\kiroldegia.exe
+C:\Users\PC\Desktop\Visual Basic\Visual projects\kiroldegia\kiroldegia\obj\Debug\kiroldegia.xml
+C:\Users\PC\Desktop\Visual Basic\Visual projects\kiroldegia\kiroldegia\obj\Debug\kiroldegia.pdb

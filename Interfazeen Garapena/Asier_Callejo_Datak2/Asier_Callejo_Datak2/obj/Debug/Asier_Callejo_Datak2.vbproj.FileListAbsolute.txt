@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_Datak2\Asier_Callejo_Datak2\bin\Debug\Asier_Callejo_Datak2.exe.config
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_Datak2\Asier_Callejo_Datak2\bin\Debug\Asier_Callejo_Datak2.exe
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_Datak2\Asier_Callejo_Datak2\bin\Debug\Asier_Callejo_Datak2.pdb
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_Datak2\Asier_Callejo_Datak2\bin\Debug\Asier_Callejo_Datak2.xml
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_Datak2\Asier_Callejo_Datak2\obj\Debug\Asier_Callejo_Datak2.Resources.resources
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_Datak2\Asier_Callejo_Datak2\obj\Debug\Asier_Callejo_Datak2.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_Datak2\Asier_Callejo_Datak2\obj\Debug\Asier_Callejo_Datak2.exe
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_Datak2\Asier_Callejo_Datak2\obj\Debug\Asier_Callejo_Datak2.xml
+C:\Users\PC\Desktop\Visual Basic\Visual projects\Asier_Callejo_Datak2\Asier_Callejo_Datak2\obj\Debug\Asier_Callejo_Datak2.pdb

@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hitz_Salda\Asier_Callejo_Hitz_Salda\bin\Debug\Asier_Callejo_Hitz_Salda.exe.config
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hitz_Salda\Asier_Callejo_Hitz_Salda\bin\Debug\Asier_Callejo_Hitz_Salda.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hitz_Salda\Asier_Callejo_Hitz_Salda\bin\Debug\Asier_Callejo_Hitz_Salda.pdb
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hitz_Salda\Asier_Callejo_Hitz_Salda\bin\Debug\Asier_Callejo_Hitz_Salda.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hitz_Salda\Asier_Callejo_Hitz_Salda\obj\Debug\Asier_Callejo_Hitz_Salda.Resources.resources
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hitz_Salda\Asier_Callejo_Hitz_Salda\obj\Debug\Asier_Callejo_Hitz_Salda.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hitz_Salda\Asier_Callejo_Hitz_Salda\obj\Debug\Asier_Callejo_Hitz_Salda.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hitz_Salda\Asier_Callejo_Hitz_Salda\obj\Debug\Asier_Callejo_Hitz_Salda.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hitz_Salda\Asier_Callejo_Hitz_Salda\obj\Debug\Asier_Callejo_Hitz_Salda.pdb

@@ -1,0 +1,11 @@
+12	Martxoa  	1976
+16	Urtarrila	1992
+03	Martxoa  	1903
+20	Otsaila  	1989
+14	Azaroa   	1975
+25	Abendua  	1834
+0	Urtarrila	0000
+03	Otsaila  	1986
+07	Apirila  	1993
+18	Ekaina   	1918
+14	Martxoa  	1995

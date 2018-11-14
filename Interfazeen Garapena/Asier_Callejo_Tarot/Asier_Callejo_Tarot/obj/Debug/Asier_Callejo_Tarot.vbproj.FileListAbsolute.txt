@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Tarot\Asier_Callejo_Tarot\bin\Debug\Asier_Callejo_Tarot.exe.config
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Tarot\Asier_Callejo_Tarot\bin\Debug\Asier_Callejo_Tarot.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Tarot\Asier_Callejo_Tarot\bin\Debug\Asier_Callejo_Tarot.pdb
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Tarot\Asier_Callejo_Tarot\bin\Debug\Asier_Callejo_Tarot.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Tarot\Asier_Callejo_Tarot\obj\Debug\Asier_Callejo_Tarot.Resources.resources
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Tarot\Asier_Callejo_Tarot\obj\Debug\Asier_Callejo_Tarot.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Tarot\Asier_Callejo_Tarot\obj\Debug\Asier_Callejo_Tarot.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Tarot\Asier_Callejo_Tarot\obj\Debug\Asier_Callejo_Tarot.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Tarot\Asier_Callejo_Tarot\obj\Debug\Asier_Callejo_Tarot.pdb

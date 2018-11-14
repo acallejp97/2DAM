@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Array\Asier_Callejo_Array\bin\Debug\Asier_Callejo_Array.exe.config
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Array\Asier_Callejo_Array\bin\Debug\Asier_Callejo_Array.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Array\Asier_Callejo_Array\bin\Debug\Asier_Callejo_Array.pdb
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Array\Asier_Callejo_Array\bin\Debug\Asier_Callejo_Array.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Array\Asier_Callejo_Array\obj\Debug\Asier_Callejo_Array.Resources.resources
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Array\Asier_Callejo_Array\obj\Debug\Asier_Callejo_Array.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Array\Asier_Callejo_Array\obj\Debug\Asier_Callejo_Array.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Array\Asier_Callejo_Array\obj\Debug\Asier_Callejo_Array.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Array\Asier_Callejo_Array\obj\Debug\Asier_Callejo_Array.pdb

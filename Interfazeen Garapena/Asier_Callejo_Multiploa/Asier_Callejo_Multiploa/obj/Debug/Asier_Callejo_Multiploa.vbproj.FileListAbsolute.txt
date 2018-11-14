@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Multiploa\Asier_Callejo_Multiploa\bin\Debug\Asier_Callejo_Multiploa.exe.config
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Multiploa\Asier_Callejo_Multiploa\bin\Debug\Asier_Callejo_Multiploa.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Multiploa\Asier_Callejo_Multiploa\bin\Debug\Asier_Callejo_Multiploa.pdb
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Multiploa\Asier_Callejo_Multiploa\bin\Debug\Asier_Callejo_Multiploa.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Multiploa\Asier_Callejo_Multiploa\obj\Debug\Asier_Callejo_Multiploa.Resources.resources
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Multiploa\Asier_Callejo_Multiploa\obj\Debug\Asier_Callejo_Multiploa.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Multiploa\Asier_Callejo_Multiploa\obj\Debug\Asier_Callejo_Multiploa.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Multiploa\Asier_Callejo_Multiploa\obj\Debug\Asier_Callejo_Multiploa.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Multiploa\Asier_Callejo_Multiploa\obj\Debug\Asier_Callejo_Multiploa.pdb

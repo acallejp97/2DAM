@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hizkiak\Asier_Callejo_Hizkiak\bin\Debug\Asier_Callejo_Hizkiak.exe.config
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hizkiak\Asier_Callejo_Hizkiak\bin\Debug\Asier_Callejo_Hizkiak.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hizkiak\Asier_Callejo_Hizkiak\bin\Debug\Asier_Callejo_Hizkiak.pdb
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hizkiak\Asier_Callejo_Hizkiak\bin\Debug\Asier_Callejo_Hizkiak.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hizkiak\Asier_Callejo_Hizkiak\obj\Debug\Asier_Callejo_Hizkiak.Resources.resources
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hizkiak\Asier_Callejo_Hizkiak\obj\Debug\Asier_Callejo_Hizkiak.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hizkiak\Asier_Callejo_Hizkiak\obj\Debug\Asier_Callejo_Hizkiak.exe
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hizkiak\Asier_Callejo_Hizkiak\obj\Debug\Asier_Callejo_Hizkiak.xml
+C:\Users\PC\Desktop\Visual projects\Asier_Callejo_Hizkiak\Asier_Callejo_Hizkiak\obj\Debug\Asier_Callejo_Hizkiak.pdb

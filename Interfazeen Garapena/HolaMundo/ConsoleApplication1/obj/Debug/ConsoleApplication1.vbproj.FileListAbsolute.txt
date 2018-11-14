@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Visual projects\HolaMundo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\PC\Desktop\Visual projects\HolaMundo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\PC\Desktop\Visual projects\HolaMundo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\PC\Desktop\Visual projects\HolaMundo\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\PC\Desktop\Visual projects\HolaMundo\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\PC\Desktop\Visual projects\HolaMundo\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Visual projects\HolaMundo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\PC\Desktop\Visual projects\HolaMundo\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+C:\Users\PC\Desktop\Visual projects\HolaMundo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

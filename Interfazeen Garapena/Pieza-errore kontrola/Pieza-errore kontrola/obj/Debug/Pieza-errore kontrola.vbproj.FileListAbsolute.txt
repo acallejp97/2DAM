@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Visual projects\Pieza-errore kontrola\Pieza-errore kontrola\bin\Debug\Pieza-errore kontrola.exe.config
+C:\Users\PC\Desktop\Visual projects\Pieza-errore kontrola\Pieza-errore kontrola\bin\Debug\Pieza-errore kontrola.exe
+C:\Users\PC\Desktop\Visual projects\Pieza-errore kontrola\Pieza-errore kontrola\bin\Debug\Pieza-errore kontrola.pdb
+C:\Users\PC\Desktop\Visual projects\Pieza-errore kontrola\Pieza-errore kontrola\bin\Debug\Pieza-errore kontrola.xml
+C:\Users\PC\Desktop\Visual projects\Pieza-errore kontrola\Pieza-errore kontrola\obj\Debug\Pieza_errore_kontrola.Resources.resources
+C:\Users\PC\Desktop\Visual projects\Pieza-errore kontrola\Pieza-errore kontrola\obj\Debug\Pieza-errore kontrola.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Visual projects\Pieza-errore kontrola\Pieza-errore kontrola\obj\Debug\Pieza-errore kontrola.exe
+C:\Users\PC\Desktop\Visual projects\Pieza-errore kontrola\Pieza-errore kontrola\obj\Debug\Pieza-errore kontrola.xml
+C:\Users\PC\Desktop\Visual projects\Pieza-errore kontrola\Pieza-errore kontrola\obj\Debug\Pieza-errore kontrola.pdb

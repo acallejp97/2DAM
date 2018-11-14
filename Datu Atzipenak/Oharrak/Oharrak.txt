@@ -1,0 +1,217 @@
+data:    2015-03-04
+ordua:    10:45
+nori:    Aner
+nork:    Eneritz
+titulua:    Itzordua
+edukia:    Arratsaldeko 5etan antzokiaren atean.
+******************
+data:    2016-01-31
+ordua:    12:15
+nori:    Eneritz
+nork:    Aner
+titulua:    Erantzuna
+edukia:    Ok.
+******************
+data:    2016-04-23
+ordua:    11:05
+nori:    Aitor
+nork:    Eneritz
+titulua:    Kaixo aspaldiko?
+edukia:    Zelan zaude?
+******************
+data:    2016-04-23
+ordua:    21:34
+nori:    Eneritz
+nork:    Aitor
+titulua:    Zu bai aspaldikoa
+edukia:    Oso ondo eta zu?
+******************
+data:    2016-04-23
+ordua:    23:11
+nori:    Aitor
+nork:    Eneritz
+titulua:    Erantzuna Aitorri
+edukia:    Ea noiz egoten garen.
+******************
+data:   -01-01
+ordua:   01:01
+nori:   
+nork:   
+titulua:   
+edukia:   
+******************
+data:     2015-03-04
+ordua:     10:45
+nori:     Aner
+nork:     Eneritz
+titulua:     Itzordua
+edukia:     Arratsaldeko 5etan antzokiaren atean.
+******************
+data:     2016-01-31
+ordua:     12:15
+nori:     Eneritz
+nork:     Aner
+titulua:     Erantzuna
+edukia:     Ok.
+******************
+data:     2016-04-23
+ordua:     11:05
+nori:     Aitor
+nork:     Eneritz
+titulua:     Kaixo aspaldiko?
+edukia:     Zelan zaude?
+******************
+data:     2016-04-23
+ordua:     21:34
+nori:     Eneritz
+nork:     Aitor
+titulua:     Zu bai aspaldikoa
+edukia:     Oso ondo eta zu?
+******************
+data:     2016-04-23
+ordua:     23:11
+nori:     Aitor
+nork:     Eneritz
+titulua:     Erantzuna Aitorri
+edukia:     Ea noiz egoten garen.
+******************
+data:    -01-01
+ordua:    01:01
+nori:    
+nork:    
+titulua:    
+edukia:    
+******************
+data:   -01-01
+ordua:   01:01
+nori:   
+nork:   
+titulua:   
+edukia:   
+******************
+data:   -01-01
+ordua:   01:01
+nori:   
+nork:   
+titulua:   
+edukia:   
+******************
+data:   -01-01
+ordua:   01:01
+nori:   
+nork:   
+titulua:   
+edukia:   
+******************
+data:   -01-01
+ordua:   01:01
+nori:   
+nork:   
+titulua:   
+edukia:   
+******************
+data:   -01-01
+ordua:   01:01
+nori:   
+nork:   
+titulua:   
+edukia:   
+******************
+data:   -01-01
+ordua:   01:01
+nori:   
+nork:   
+titulua:   
+edukia:   
+******************
+data:   -01-01
+ordua:   01:01
+nori:   
+nork:   
+titulua:   
+edukia:   
+******************
+data:   -01-01
+ordua:   01:01
+nori:   
+nork:   
+titulua:   
+edukia:   
+******************
+data:   -01-01
+ordua:   01:01
+nori:   
+nork:   
+titulua:   
+edukia:   
+******************
+data:   -01-01
+ordua:   01:01
+nori:   
+nork:   
+titulua:   
+edukia:   
+******************
+data:   -01-01
+ordua:   01:01
+nori:   
+nork:   
+titulua:   
+edukia:   
+******************
+data:   -01-01
+ordua:   01:01
+nori:   
+nork:   
+titulua:   
+edukia:   
+******************
+data:     2015-03-04
+ordua:     10:45
+nori:     Aner
+nork:     Eneritz
+titulua:     Itzordua
+edukia:     Arratsaldeko 5etan antzokiaren atean.
+******************
+data:     2016-01-31
+ordua:     12:15
+nori:     Eneritz
+nork:     Aner
+titulua:     Erantzuna
+edukia:     Ok.
+******************
+data:     2016-04-23
+ordua:     11:05
+nori:     Aitor
+nork:     Eneritz
+titulua:     Kaixo aspaldiko?
+edukia:     Zelan zaude?
+******************
+data:     2016-04-23
+ordua:     21:34
+nori:     Eneritz
+nork:     Aitor
+titulua:     Zu bai aspaldikoa
+edukia:     Oso ondo eta zu?
+******************
+data:     2016-04-23
+ordua:     23:11
+nori:     Aitor
+nork:     Eneritz
+titulua:     Erantzuna Aitorri
+edukia:     Ea noiz egoten garen.
+******************
+data:    -01-01
+ordua:    01:01
+nori:    
+nork:    
+titulua:    
+edukia:    
+******************
+data:  -01-01
+ordua:  01:01
+nori:  
+nork:  
+titulua:  
+edukia:  
+******************

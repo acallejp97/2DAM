@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ajustes">Ajustes</string>
+
+    <string name="Deshabilitar">Deshabilitar</string>
+    <string name="Suma">Suma</string>
+    <string name="Resta">Resta</string>
+    <string name="Multi">Multiplicacion</string>
+    <string name="Divi">Division</string>
+    <string name="Raiz">Raiz cuadrada</string>
+    <string name="Porcent">Porcentaje</string>
+    <string name="Fondo">Color fondo</string>
+    <string name="Negro">Negro</string>
+    <string name="Blanco">Blanco</string>
+
+    <string name="Gris">Gris</string>
+
+    <string name="Botones">Color botones</string>
+    <string name="Azul">Azul</string>
+    <string name="Rosa">Rosa</string>
+
+    <string name="Idioma">Idioma</string>
+    <string name="Euskera">Vasco</string>
+    <string name="Espanol">Español</string>
+    <string name="Ingles">Ingles</string>
+    <string name="app_name">Calculadora</string>
+    <string name="action_settings">Ajustes</string>
+
+
+</resources>

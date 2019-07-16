@@ -1,0 +1,57 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Fechas\bin\Debug\Fechas.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Fechas\bin\Debug\Fechas.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\Fechas\bin\Debug\Fechas.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Fechas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\AppData\Local\Temporary Projects\Fechas\obj\x86\Debug\Fechas.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Fechas\obj\x86\Debug\Fechas.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Fechas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\AppData\Local\Temporary Projects\Fechas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\AppData\Local\Temporary Projects\Fechas\obj\x86\Debug\Fechas.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Fechas\obj\x86\Debug\Fechas.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Fechas\obj\x86\Debug\Fechas.pdb
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Fechas\Fechas\obj\x86\Debug\Fechas.exe
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Fechas\Fechas\obj\x86\Debug\Fechas.xml
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Fechas\Fechas\obj\x86\Debug\Fechas.pdb
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Fechas\Fechas\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Fechas\Fechas\obj\x86\Debug\Fechas.Form1.resources
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Fechas\Fechas\obj\x86\Debug\Fechas.Resources.resources
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Fechas\Fechas\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Fechas\Fechas\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Fechas\Fechas\bin\Debug\Fechas.exe
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Fechas\Fechas\bin\Debug\Fechas.pdb
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Fechas\Fechas\bin\Debug\Fechas.xml
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_Ejer02_Fechas\Fechas\obj\x86\Debug\Fechas.exe
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_Ejer02_Fechas\Fechas\obj\x86\Debug\Fechas.xml
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_Ejer02_Fechas\Fechas\obj\x86\Debug\Fechas.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_Ejer02_Fechas\Fechas\obj\x86\Debug\Fechas.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_Ejer02_Fechas\Fechas\obj\x86\Debug\Fechas.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_Ejer02_Fechas\Fechas\obj\x86\Debug\Fechas.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer08e_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer08e_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer08e_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008h_Fechas_DateDiff\Fechas\bin\Debug\Fechas.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008h_Fechas_DateDiff\Fechas\bin\Debug\Fechas.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008h_Fechas_DateDiff\Fechas\bin\Debug\Fechas.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.Form1.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.Resources.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.vbproj.GenerateResource.Cache
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.exe
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.xml
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008h_Fechas_DateDiff\Fechas\bin\Debug\Fechas.exe
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008h_Fechas_DateDiff\Fechas\bin\Debug\Fechas.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008h_Fechas_DateDiff\Fechas\bin\Debug\Fechas.xml
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.Form1.resources
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\Fechas.Resources.resources
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008h_Fechas_DateDiff\Fechas\obj\x86\Debug\GenerateResource.write.1.tlog

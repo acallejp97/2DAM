@@ -1,0 +1,80 @@
+C:\Users\admin1\AppData\Local\Temporary Projects\008FindString2\bin\Debug\008FindString2.exe
+C:\Users\admin1\AppData\Local\Temporary Projects\008FindString2\bin\Debug\008FindString2.pdb
+C:\Users\admin1\AppData\Local\Temporary Projects\008FindString2\bin\Debug\008FindString2.xml
+C:\Users\admin1\AppData\Local\Temporary Projects\008FindString2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin1\AppData\Local\Temporary Projects\008FindString2\obj\x86\Debug\_008FindString2.Form1.resources
+C:\Users\admin1\AppData\Local\Temporary Projects\008FindString2\obj\x86\Debug\_008FindString2.Resources.resources
+C:\Users\admin1\AppData\Local\Temporary Projects\008FindString2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin1\AppData\Local\Temporary Projects\008FindString2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin1\AppData\Local\Temporary Projects\008FindString2\obj\x86\Debug\008FindString2.exe
+C:\Users\admin1\AppData\Local\Temporary Projects\008FindString2\obj\x86\Debug\008FindString2.xml
+C:\Users\admin1\AppData\Local\Temporary Projects\008FindString2\obj\x86\Debug\008FindString2.pdb
+C:\Users\admin1\Desktop\vb\013_listBox_ComboBox_varios\008FindString2\008FindString2\obj\x86\Debug\008FindString2.exe
+C:\Users\admin1\Desktop\vb\013_listBox_ComboBox_varios\008FindString2\008FindString2\obj\x86\Debug\008FindString2.xml
+C:\Users\admin1\Desktop\vb\013_listBox_ComboBox_varios\008FindString2\008FindString2\obj\x86\Debug\008FindString2.pdb
+C:\Users\admin1\Desktop\vb\013_listBox_ComboBox_varios\008FindString2\008FindString2\bin\Debug\008FindString2.exe
+C:\Users\admin1\Desktop\vb\013_listBox_ComboBox_varios\008FindString2\008FindString2\bin\Debug\008FindString2.pdb
+C:\Users\admin1\Desktop\vb\013_listBox_ComboBox_varios\008FindString2\008FindString2\bin\Debug\008FindString2.xml
+C:\Users\admin1\Desktop\vb\013_listBox_ComboBox_varios\008FindString2\008FindString2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin1\Desktop\vb\013_listBox_ComboBox_varios\008FindString2\008FindString2\obj\x86\Debug\_008FindString2.Form1.resources
+C:\Users\admin1\Desktop\vb\013_listBox_ComboBox_varios\008FindString2\008FindString2\obj\x86\Debug\_008FindString2.Resources.resources
+C:\Users\admin1\Desktop\vb\013_listBox_ComboBox_varios\008FindString2\008FindString2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin1\Desktop\vb\013_listBox_ComboBox_varios\008FindString2\008FindString2\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\008FindString2\008FindString2\obj\x86\Debug\008FindString2.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\008FindString2\008FindString2\obj\x86\Debug\008FindString2.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\008FindString2\008FindString2\obj\x86\Debug\008FindString2.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\008FindString2\008FindString2\bin\Debug\008FindString2.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\008FindString2\008FindString2\bin\Debug\008FindString2.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\008FindString2\008FindString2\bin\Debug\008FindString2.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\008FindString2\008FindString2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\008FindString2\008FindString2\obj\x86\Debug\_008FindString2.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\008FindString2\008FindString2\obj\x86\Debug\_008FindString2.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\008FindString2\008FindString2\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\008FindString2\008FindString2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\obj\x86\Debug\008FindString2.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\obj\x86\Debug\008FindString2.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\obj\x86\Debug\008FindString2.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\bin\Debug\008FindString2.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\bin\Debug\008FindString2.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\bin\Debug\008FindString2.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\obj\x86\Debug\_008FindString2.Form1.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\obj\x86\Debug\_008FindString2.Resources.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\obj\x86\Debug\008FindString2.vbproj.GenerateResource.Cache
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\obj\x86\Debug\008FindString2.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\obj\x86\Debug\008FindString2.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\obj\x86\Debug\008FindString2.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\bin\Debug\008FindString2.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\bin\Debug\008FindString2.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\bin\Debug\008FindString2.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\obj\x86\Debug\_008FindString2.Form1.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\obj\x86\Debug\_008FindString2.Resources.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08FindString\008FindString2\obj\x86\Debug\008FindString2.vbproj.GenerateResource.Cache
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\008FindString2.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\008FindString2.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\008FindString2.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\bin\Debug\008FindString2.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\bin\Debug\008FindString2.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\bin\Debug\008FindString2.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\_008FindString2.Form1.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\_008FindString2.Resources.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\008FindString2.vbproj.GenerateResource.Cache
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\008FindString2.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\008FindString2.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\008FindString2.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\bin\Debug\008FindString2.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\bin\Debug\008FindString2.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\bin\Debug\008FindString2.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\_008FindString2.Form1.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\_008FindString2.Resources.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\008FindString2.vbproj.GenerateResource.Cache
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\008FindString2.exe
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\008FindString2.xml
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\008FindString2.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\bin\Debug\008FindString2.exe
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\bin\Debug\008FindString2.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\bin\Debug\008FindString2.xml
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\_008FindString2.Form1.resources
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\_008FindString2.Resources.resources
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\013_ListBox_ComboBox_VARIOS\08_FindString\008FindString2\obj\x86\Debug\GenerateResource.write.1.tlog

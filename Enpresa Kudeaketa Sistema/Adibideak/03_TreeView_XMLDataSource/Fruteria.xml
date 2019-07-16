@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Frutadenda>
+	<Elemento Categoria="Frutak"> 
+		<Opcion Seleccion= "Madariak"/> 
+		<Opcion Seleccion= "Marrubiak"/> 
+		<Opcion Seleccion="Aranak"/> 
+	</Elemento>
+	<Elemento Categoria="Barazkiak"> 
+		<Opcion Seleccion="Zerbak"/> 
+		<Opcion Seleccion="Azak"/> 
+		<Opcion Seleccion="Ziazerbak"/>
+    <Opcion Seleccion="Tipulak"/>
+    <Opcion Seleccion="Alkatxofak"/>
+    <Opcion Seleccion="Azenarioak"/>
+  </Elemento>
+	<Elemento Categoria="Lekale"> 
+		<Opcion Seleccion="Txitxirioak"/> 
+		<Opcion Seleccion="Dilistak"/> 
+		<Opcion Seleccion="Lekak"/> 
+	</Elemento>
+
+</Frutadenda>

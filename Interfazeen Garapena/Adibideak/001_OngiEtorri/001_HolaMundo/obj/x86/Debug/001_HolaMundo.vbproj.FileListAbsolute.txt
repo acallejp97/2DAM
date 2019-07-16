@@ -1,0 +1,44 @@
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\bin\Debug\001_HolaMundo.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\bin\Debug\001_HolaMundo.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\bin\Debug\001_HolaMundo.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\_001_HolaMundo.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\_001_HolaMundo.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\bin\Debug\001_HolaMundo.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\bin\Debug\001_HolaMundo.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\bin\Debug\001_HolaMundo.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.vbprojResolveAssemblyReference.cache
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\_001_HolaMundo.Form1.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\_001_HolaMundo.Resources.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.vbproj.GenerateResource.Cache
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\bin\Debug\001_HolaMundo.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\bin\Debug\001_HolaMundo.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\bin\Debug\001_HolaMundo.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.vbprojResolveAssemblyReference.cache
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\_001_HolaMundo.Form1.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\_001_HolaMundo.Resources.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.vbproj.GenerateResource.Cache
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\Cap11_Formularios\001_HolaMundo\001_HolaMundo\bin\Debug\001_HolaMundo.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\Cap11_Formularios\001_HolaMundo\001_HolaMundo\bin\Debug\001_HolaMundo.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\Cap11_Formularios\001_HolaMundo\001_HolaMundo\bin\Debug\001_HolaMundo.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.vbprojResolveAssemblyReference.cache
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\_001_HolaMundo.Form1.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\_001_HolaMundo.Resources.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\Cap11_Formularios\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.vbproj.GenerateResource.Cache
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\001_HolaMundo\001_HolaMundo\obj\x86\Debug\001_HolaMundo.pdb

@@ -1,0 +1,21 @@
+C:\Users\admin1\AppData\Local\Temporary Projects\027_ZoomImagen\bin\Debug\027_ZoomImagen.exe.config
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\027_ZoomImagen\027_ZoomImagen\bin\Debug\027_ZoomImagen.exe.config
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\027_ZoomImagen\027_ZoomImagen\bin\Debug\027_ZoomImagen.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\027_ZoomImagen\027_ZoomImagen\bin\Debug\027_ZoomImagen.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\027_ZoomImagen\027_ZoomImagen\bin\Debug\027_ZoomImagen.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\027_ZoomImagen\027_ZoomImagen\obj\Debug\_027_ZoomImagen.Form1.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\027_ZoomImagen\027_ZoomImagen\obj\Debug\_027_ZoomImagen.Resources.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\027_ZoomImagen\027_ZoomImagen\obj\Debug\027_ZoomImagen.vbproj.GenerateResource.Cache
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\027_ZoomImagen\027_ZoomImagen\obj\Debug\027_ZoomImagen.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\027_ZoomImagen\027_ZoomImagen\obj\Debug\027_ZoomImagen.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\027_ZoomImagen\027_ZoomImagen\obj\Debug\027_ZoomImagen.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\027_ZoomImagen\027_ZoomImagen\bin\Debug\027_ZoomImagen.exe.config
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\027_ZoomImagen\027_ZoomImagen\obj\Debug\027_ZoomImagen.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\027_ZoomImagen\027_ZoomImagen\obj\Debug\027_ZoomImagen.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\027_ZoomImagen\027_ZoomImagen\obj\Debug\027_ZoomImagen.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\027_ZoomImagen\027_ZoomImagen\bin\Debug\027_ZoomImagen.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\027_ZoomImagen\027_ZoomImagen\bin\Debug\027_ZoomImagen.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\027_ZoomImagen\027_ZoomImagen\bin\Debug\027_ZoomImagen.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\027_ZoomImagen\027_ZoomImagen\obj\Debug\_027_ZoomImagen.Form1.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\027_ZoomImagen\027_ZoomImagen\obj\Debug\_027_ZoomImagen.Resources.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\027_ZoomImagen\027_ZoomImagen\obj\Debug\027_ZoomImagen.vbproj.GenerateResource.Cache

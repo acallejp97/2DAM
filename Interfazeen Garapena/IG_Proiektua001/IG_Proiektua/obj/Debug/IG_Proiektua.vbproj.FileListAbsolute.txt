@@ -1,0 +1,65 @@
+C:\Users\ALT\AppData\Local\Temporary Projects\IG_Proiektua\bin\Debug\IG_Proiektua.exe.config
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua\IG_Proiektua\bin\Debug\IG_Proiektua.exe.config
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua\IG_Proiektua\obj\Debug\IG_Proiektua.Form1.resources
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua\IG_Proiektua\obj\Debug\IG_Proiektua.Resources.resources
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua\IG_Proiektua\obj\Debug\IG_Proiektua.vbproj.GenerateResource.Cache
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua\IG_Proiektua\bin\Debug\IG_Proiektua.exe
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua\IG_Proiektua\bin\Debug\IG_Proiektua.pdb
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua\IG_Proiektua\bin\Debug\IG_Proiektua.xml
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua\IG_Proiektua\obj\Debug\IG_Proiektua.exe
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua\IG_Proiektua\obj\Debug\IG_Proiektua.xml
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua\IG_Proiektua\obj\Debug\IG_Proiektua.pdb
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua\IG_Proiektua\obj\Debug\IG_Proiektua.CargaDatos.resources
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\bin\Debug\IG_Proiektua.exe.config
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.exe
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.xml
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.pdb
+\\VBOXSVR\Win7_Tools\IG_Proiektua001B\IG_Proiektua001\IG_Proiektua\bin\Debug\IG_Proiektua.exe.config
+\\VBOXSVR\Win7_Tools\IG_Proiektua001B\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.exe
+\\VBOXSVR\Win7_Tools\IG_Proiektua001B\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.xml
+\\VBOXSVR\Win7_Tools\IG_Proiektua001B\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.pdb
+\\VBOXSVR\Win7_Tools\IG_Proiektua001B\IG_Proiektua001\IG_Proiektua\bin\Debug\IG_Proiektua.exe
+\\VBOXSVR\Win7_Tools\IG_Proiektua001B\IG_Proiektua001\IG_Proiektua\bin\Debug\IG_Proiektua.pdb
+\\VBOXSVR\Win7_Tools\IG_Proiektua001B\IG_Proiektua001\IG_Proiektua\bin\Debug\IG_Proiektua.xml
+\\VBOXSVR\Win7_Tools\IG_Proiektua001B\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.CargaDatos.resources
+\\VBOXSVR\Win7_Tools\IG_Proiektua001B\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.Resources.resources
+\\VBOXSVR\Win7_Tools\IG_Proiektua001B\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.vbproj.GenerateResource.Cache
+\\VBOXSVR\Win7_Tools\IG_Proiektua001B\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.vbproj.ResolveComReference.cache
+\\VBOXSVR\Win7_Tools\IG_Proiektua001B\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.Menua.resources
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001D_excel_mysql\IG_Proiektua001\IG_Proiektua\bin\Debug\IG_Proiektua.exe.config
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001D_excel_mysql\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.vbproj.ResolveComReference.cache
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001D_excel_mysql\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.exe
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001D_excel_mysql\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.xml
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001D_excel_mysql\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.pdb
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001D_excel_mysql\IG_Proiektua001\IG_Proiektua\bin\Debug\IG_Proiektua.exe
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001D_excel_mysql\IG_Proiektua001\IG_Proiektua\bin\Debug\IG_Proiektua.pdb
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001D_excel_mysql\IG_Proiektua001\IG_Proiektua\bin\Debug\IG_Proiektua.xml
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001D_excel_mysql\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.CargaDatos.resources
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001D_excel_mysql\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.Menua.resources
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001D_excel_mysql\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.Resources.resources
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001D_excel_mysql\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.vbproj.GenerateResource.Cache
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.vbproj.ResolveComReference.cache
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.CargaDatos.resources
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.Menua.resources
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.Resources.resources
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.vbproj.GenerateResource.Cache
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\bin\Debug\IG_Proiektua.exe
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\bin\Debug\IG_Proiektua.pdb
+C:\Users\ALT\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\bin\Debug\IG_Proiektua.xml
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\bin\Debug\IG_Proiektua.exe.config
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.vbproj.ResolveComReference.cache
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.exe
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.xml
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.pdb
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\bin\Debug\IG_Proiektua.exe
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\bin\Debug\IG_Proiektua.pdb
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\bin\Debug\IG_Proiektua.xml
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.CargaDatos.resources
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.Menua.resources
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.Resources.resources
+C:\Users\in2dm3_27\Documents\Visual Studio 2013\Projects\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.vbproj.GenerateResource.Cache
+C:\Users\in2dm3_07\Desktop\IG_Proiektua001\IG_Proiektua\bin\Debug\IG_Proiektua.exe.config
+C:\Users\in2dm3_07\Desktop\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.vbproj.ResolveComReference.cache
+C:\Users\in2dm3_07\Desktop\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.exe
+C:\Users\in2dm3_07\Desktop\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.xml
+C:\Users\in2dm3_07\Desktop\IG_Proiektua001\IG_Proiektua\obj\Debug\IG_Proiektua.pdb

@@ -1,0 +1,52 @@
+C:\Users\Admin1\AppData\Local\Temporary Projects\008b_ControlarTextBoxes\bin\Debug\008b_ControlarTextBoxes.exe
+C:\Users\Admin1\AppData\Local\Temporary Projects\008b_ControlarTextBoxes\bin\Debug\008b_ControlarTextBoxes.pdb
+C:\Users\Admin1\AppData\Local\Temporary Projects\008b_ControlarTextBoxes\bin\Debug\008b_ControlarTextBoxes.xml
+C:\Users\Admin1\AppData\Local\Temporary Projects\008b_ControlarTextBoxes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin1\AppData\Local\Temporary Projects\008b_ControlarTextBoxes\obj\x86\Debug\_008b_ControlarTextBoxes.Form1.resources
+C:\Users\Admin1\AppData\Local\Temporary Projects\008b_ControlarTextBoxes\obj\x86\Debug\_008b_ControlarTextBoxes.Resources.resources
+C:\Users\Admin1\AppData\Local\Temporary Projects\008b_ControlarTextBoxes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin1\AppData\Local\Temporary Projects\008b_ControlarTextBoxes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin1\AppData\Local\Temporary Projects\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.exe
+C:\Users\Admin1\AppData\Local\Temporary Projects\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.xml
+C:\Users\Admin1\AppData\Local\Temporary Projects\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\bin\Debug\008b_ControlarTextBoxes.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\bin\Debug\008b_ControlarTextBoxes.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\bin\Debug\008b_ControlarTextBoxes.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\_008b_ControlarTextBoxes.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\_008b_ControlarTextBoxes.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.exe
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.xml
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.pdb
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\bin\Debug\008b_ControlarTextBoxes.exe
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\bin\Debug\008b_ControlarTextBoxes.pdb
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\bin\Debug\008b_ControlarTextBoxes.xml
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\_008b_ControlarTextBoxes.Form1.resources
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\_008b_ControlarTextBoxes.Resources.resources
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.vbproj.GenerateResource.Cache
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\bin\Debug\008b_ControlarTextBoxes.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\bin\Debug\008b_ControlarTextBoxes.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\bin\Debug\008b_ControlarTextBoxes.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\_008b_ControlarTextBoxes.Form1.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\_008b_ControlarTextBoxes.Resources.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.vbproj.GenerateResource.Cache
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.exe
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.xml
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008b_ControlarTextBoxes\008b_ControlarTextBoxes\bin\Debug\008b_ControlarTextBoxes.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008b_ControlarTextBoxes\008b_ControlarTextBoxes\bin\Debug\008b_ControlarTextBoxes.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008b_ControlarTextBoxes\008b_ControlarTextBoxes\bin\Debug\008b_ControlarTextBoxes.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\_008b_ControlarTextBoxes.Form1.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\_008b_ControlarTextBoxes.Resources.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008b_ControlarTextBoxes\008b_ControlarTextBoxes\obj\x86\Debug\008b_ControlarTextBoxes.vbproj.GenerateResource.Cache

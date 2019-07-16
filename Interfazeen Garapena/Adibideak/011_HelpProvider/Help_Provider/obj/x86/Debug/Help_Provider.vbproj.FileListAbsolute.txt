@@ -1,0 +1,99 @@
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\Help_Provider\bin\Debug\Help_Provider.exe
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\Help_Provider\bin\Debug\Help_Provider.pdb
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\Help_Provider\bin\Debug\Help_Provider.xml
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\Help_Provider\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\Help_Provider\obj\x86\Debug\Help_Provider.Form1.resources
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\Help_Provider\obj\x86\Debug\Help_Provider.Resources.resources
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\Help_Provider\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\Help_Provider\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\Help_Provider\obj\x86\Debug\Help_Provider.exe
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\Help_Provider\obj\x86\Debug\Help_Provider.xml
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\Help_Provider\obj\x86\Debug\Help_Provider.pdb
+E:\Documents and Settings\dai2\Escritorio\Help_Provider\Help_Provider\obj\x86\Debug\Help_Provider.exe
+E:\Documents and Settings\dai2\Escritorio\Help_Provider\Help_Provider\obj\x86\Debug\Help_Provider.xml
+E:\Documents and Settings\dai2\Escritorio\Help_Provider\Help_Provider\obj\x86\Debug\Help_Provider.pdb
+E:\Documents and Settings\dai2\Escritorio\Help_Provider\Help_Provider\bin\Debug\Help_Provider.exe
+E:\Documents and Settings\dai2\Escritorio\Help_Provider\Help_Provider\bin\Debug\Help_Provider.pdb
+E:\Documents and Settings\dai2\Escritorio\Help_Provider\Help_Provider\bin\Debug\Help_Provider.xml
+E:\Documents and Settings\dai2\Escritorio\Help_Provider\Help_Provider\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\dai2\Escritorio\Help_Provider\Help_Provider\obj\x86\Debug\Help_Provider.Form1.resources
+E:\Documents and Settings\dai2\Escritorio\Help_Provider\Help_Provider\obj\x86\Debug\Help_Provider.Resources.resources
+E:\Documents and Settings\dai2\Escritorio\Help_Provider\Help_Provider\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents and Settings\dai2\Escritorio\Help_Provider\Help_Provider\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documents and Settings\dai2\Escritorio\Aritz-Help_Provider\Help_Provider\obj\x86\Debug\Help_Provider.exe
+E:\Documents and Settings\dai2\Escritorio\Aritz-Help_Provider\Help_Provider\obj\x86\Debug\Help_Provider.xml
+E:\Documents and Settings\dai2\Escritorio\Aritz-Help_Provider\Help_Provider\obj\x86\Debug\Help_Provider.pdb
+E:\Documents and Settings\dai2\Escritorio\Aritz-Help_Provider\Help_Provider\bin\Debug\Help_Provider.exe
+E:\Documents and Settings\dai2\Escritorio\Aritz-Help_Provider\Help_Provider\bin\Debug\Help_Provider.pdb
+E:\Documents and Settings\dai2\Escritorio\Aritz-Help_Provider\Help_Provider\bin\Debug\Help_Provider.xml
+E:\Documents and Settings\dai2\Escritorio\Aritz-Help_Provider\Help_Provider\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\dai2\Escritorio\Aritz-Help_Provider\Help_Provider\obj\x86\Debug\Help_Provider.Form1.resources
+E:\Documents and Settings\dai2\Escritorio\Aritz-Help_Provider\Help_Provider\obj\x86\Debug\Help_Provider.Resources.resources
+E:\Documents and Settings\dai2\Escritorio\Aritz-Help_Provider\Help_Provider\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents and Settings\dai2\Escritorio\Aritz-Help_Provider\Help_Provider\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Componentes Nuevos\Help_Provider_Aritz\Help_Provider\obj\x86\Debug\Help_Provider.exe
+F:\Componentes Nuevos\Help_Provider_Aritz\Help_Provider\obj\x86\Debug\Help_Provider.xml
+F:\Componentes Nuevos\Help_Provider_Aritz\Help_Provider\obj\x86\Debug\Help_Provider.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\Help_Provider\Help_Provider\obj\x86\Debug\Help_Provider.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\Help_Provider\Help_Provider\obj\x86\Debug\Help_Provider.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\Help_Provider\Help_Provider\obj\x86\Debug\Help_Provider.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\Help_Provider\Help_Provider\bin\Debug\Help_Provider.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\Help_Provider\Help_Provider\bin\Debug\Help_Provider.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\Help_Provider\Help_Provider\bin\Debug\Help_Provider.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\Help_Provider\Help_Provider\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\Help_Provider\Help_Provider\obj\x86\Debug\Help_Provider.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\Help_Provider\Help_Provider\obj\x86\Debug\Help_Provider.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\Help_Provider\Help_Provider\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\Help_Provider\Help_Provider\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_HelpProvider01\Help_Provider\obj\x86\Debug\Help_Provider.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_HelpProvider01\Help_Provider\obj\x86\Debug\Help_Provider.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_HelpProvider01\Help_Provider\obj\x86\Debug\Help_Provider.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_HelpProvider01\Help_Provider\bin\Debug\Help_Provider.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_HelpProvider01\Help_Provider\bin\Debug\Help_Provider.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_HelpProvider01\Help_Provider\bin\Debug\Help_Provider.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_HelpProvider01\Help_Provider\obj\x86\Debug\Help_Provider.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_HelpProvider01\Help_Provider\obj\x86\Debug\Help_Provider.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_HelpProvider01\Help_Provider\obj\x86\Debug\Help_Provider.vbproj.GenerateResource.Cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\bin\Debug\Help_Provider.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\bin\Debug\Help_Provider.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\bin\Debug\Help_Provider.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\012_LibroMCGRAWHILL_VARIOS\x011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\012_LibroMCGRAWHILL_VARIOS\x011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\012_LibroMCGRAWHILL_VARIOS\x011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\bin\Debug\Help_Provider.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\bin\Debug\Help_Provider.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\bin\Debug\Help_Provider.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.Form1.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.Resources.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.vbproj.GenerateResource.Cache
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\bin\Debug\Help_Provider.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\bin\Debug\Help_Provider.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\bin\Debug\Help_Provider.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.Form1.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.Resources.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.vbproj.GenerateResource.Cache
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.exe
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.xml
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_HelpProvider\Help_Provider\bin\Debug\Help_Provider.exe
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_HelpProvider\Help_Provider\bin\Debug\Help_Provider.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_HelpProvider\Help_Provider\bin\Debug\Help_Provider.xml
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_HelpProvider\Help_Provider\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.Form1.resources
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_HelpProvider\Help_Provider\obj\x86\Debug\Help_Provider.Resources.resources
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_HelpProvider\Help_Provider\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_HelpProvider\Help_Provider\obj\x86\Debug\GenerateResource.write.1.tlog

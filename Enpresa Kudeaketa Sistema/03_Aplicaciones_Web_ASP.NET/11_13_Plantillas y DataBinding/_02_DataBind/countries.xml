@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<countries>
+    <country>
+      <aaa>Norway</aaa>
+      <bbb>N</bbb>
+    </country>
+
+    <country>
+      <aaa>Sweden</aaa>
+      <bbb>S</bbb>
+    </country>
+
+    <country>
+      <aaa>France</aaa>
+      <bbb>F</bbb>
+    </country>
+
+    <country>
+      <aaa>Italy</aaa>
+      <bbb>I</bbb>
+    </country>
+</countries>

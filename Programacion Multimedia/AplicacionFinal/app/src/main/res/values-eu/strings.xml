@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" Elorrietako Liburutegia"</string>
+    <string name="NuevoUsuario">Erabiltzaile berria</string>
+
+    <string name="LibrosPrestados">Mailegatutako liburuak</string>
+    <string name="NuevoPrestamo">Mailegu berria</string>
+    <string name="GestorBiblioteca">Biblioteka kudeatzailea</string>
+    <string name="AnadirUsuario">Erabiltzailea gehitu</string>
+    <string name="ID">ID</string>
+    <string name="Nombre">Izena</string>
+    <string name="Apellido">Abizena</string>
+    <string name="Telefono">Telefonoa</string>
+    <string name="Aceptar">Onartu</string>
+    <string name="Anadir">Gehitu</string>
+    <string name="Buscar">Bilatu</string>
+    <string name="Borrar">Ezabatu</string>
+    <string name="NuevoLibro">Liburu berria</string>
+    <string name="ISBN">ISBN</string>
+    <string name="Titulo">Tituloa</string>
+    <string name="Autor">Idazlea</string>
+    <string name="Editorial">Editoriala</string>
+    <string name="Siguiente">Hurrengoa</string>
+    <string name="SeleccionarUsuario">Erabiltzailea hautatu</string>
+    <string name="SeleccionarLibro">Liburua hautatu</string>
+    <string name="SeleccionarPrestamo">Mailegua hautatu</string>
+    <string name="Devuelto">Itzulia</string>
+    <string name="LLamar">Deitu</string>
+    <string name="AcercaDe">Honi buruz...</string>
+    <string name="Usuarios">Erabiltzaileak</string>
+    <string name="Libros">Liburuak</string>
+    <string name="hechoPor">Sortzailea: Asier Callejo android aplikazio bezala</string>
+    <string name="dam">2DAM 2018</string>
+    <string name="Prestado">Utzita</string>
+    <string name="No">Ez</string>
+    <string name="LibroPrestado">Liburua utzita</string>
+    <string name="ErrorCampo">Kanpo arazoa</string>
+    <string name="ISBNExistente">ISBN erabiltita</string>
+    <string name="GuardadoCorrectametne">Ondo gordeta</string>
+    <string name="ISBNInexistente">Ez da ISBN horrekin existizen den libururik</string>
+    <string name="ISBNVacio">ISBN hutsik</string>
+    <string name="ISBNBorrado">Liburua ezabatua</string>
+    <string name="IDExistente">ID erabilita</string>
+    <string name="IDInexistemte">Ez dago inor ID horrekin</string>
+    <string name="IDBorrado">Erabiltzailea ezabatuta</string>
+    <string name="ElLibro">Liburua </string>
+    <string name="HaSidoPrestado"> utzi egin da</string>
+    <string name="LibroDevuelto">Liburua itzulita</string>
+    <string name="PrestadoA">Utzita honi</string>
+    <string name="NPrestados">Z. utzita</string>
+    <string name="Actualizar">Eguneratu</string>
+    <string name="DatosModificados">Datuak eguneratuak</string>
+</resources>

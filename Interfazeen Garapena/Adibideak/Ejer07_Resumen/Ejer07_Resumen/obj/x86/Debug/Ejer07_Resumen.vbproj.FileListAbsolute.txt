@@ -1,0 +1,285 @@
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.exe
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.pdb
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.xml
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form1.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form2.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Resources.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form3.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form4.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form6.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form7.resources
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.exe
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.pdb
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.xml
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form1.resources
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form2.resources
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form3.resources
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form4.resources
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5.resources
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form6.resources
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form7.resources
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Resources.resources
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.exe
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.pdb
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.xml
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form1.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form2.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form3.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form4.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form6.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form7.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Resources.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.exe
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.pdb
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.xml
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form1.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form2.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form3.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form4.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form6.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form7.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Resources.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen_AQUI\Ejer07_Resumen\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.exe
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.pdb
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.xml
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form1.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form2.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form3.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form4.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form6.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form7.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Resources.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form8.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form8.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.exe
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.pdb
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.xml
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form1.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form2.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form3.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form4.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form6.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form7.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form8.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Resources.resources
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.exe
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.pdb
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.xml
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form1.resources
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form2.resources
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form3.resources
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form4.resources
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5.resources
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form6.resources
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form7.resources
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form8.resources
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Resources.resources
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.read.1.tlog
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+M:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+M:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.exe
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.pdb
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.xml
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form1.resources
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form2.resources
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form3.resources
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form4.resources
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5.resources
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form6.resources
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form7.resources
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form8.resources
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Resources.resources
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.exe
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.pdb
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.xml
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form1.resources
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form2.resources
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form3.resources
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form4.resources
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5.resources
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form6.resources
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form7.resources
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form8.resources
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Resources.resources
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.exe
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.pdb
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.xml
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form1.resources
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form2.resources
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form3.resources
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form4.resources
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5.resources
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form6.resources
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form7.resources
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form8.resources
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Resources.resources
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form2.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form3.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form4.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form6.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form7.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form8.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form9.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5a.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form7a.resources
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.exe
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.pdb
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.xml
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form1.resources
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form2.resources
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form3.resources
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form4.resources
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5.resources
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5a.resources
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form6.resources
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form7.resources
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form7a.resources
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form8.resources
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form9.resources
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Resources.resources
+J:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.vbproj.GenerateResource.Cache
+L:\DAM\EU\2013_14_InterfazeenGarapena\01-02-03-DRSP_VB2010\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+L:\DAM\EU\2013_14_InterfazeenGarapena\01-02-03-DRSP_VB2010\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+L:\DAM\EU\2013_14_InterfazeenGarapena\01-02-03-DRSP_VB2010\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.exe
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.pdb
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.xml
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form1.resources
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form2.resources
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form3.resources
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form4.resources
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5a.resources
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form7a.resources
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form8.resources
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form9.resources
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Resources.resources
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5_NO.resources
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form6_NO.resources
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.exe
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.pdb
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.xml
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form1.resources
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form2.resources
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form3.resources
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form4.resources
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5_NO.resources
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5a.resources
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form6_NO.resources
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form7a.resources
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form8.resources
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form9.resources
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Resources.resources
+C:\Users\Cristina\Google Drive\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.vbproj.GenerateResource.Cache
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\bin\Debug\Ejer07_Resumen.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form1.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form2.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form3.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form4.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5_NO.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form5a.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form6_NO.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form7a.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form8.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Form9.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.Resources.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.vbproj.GenerateResource.Cache
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD 8 DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.exe
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD 8 DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.xml
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD 8 DatuBaseak\EjerConACCESS\Ejer07_Resumen\Ejer07_Resumen\obj\x86\Debug\Ejer07_Resumen.pdb

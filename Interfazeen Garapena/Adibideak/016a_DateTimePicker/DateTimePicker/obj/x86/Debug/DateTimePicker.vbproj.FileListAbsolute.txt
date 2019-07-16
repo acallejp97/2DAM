@@ -1,0 +1,103 @@
+C:\Users\jorge\AppData\Local\Temporary Projects\DateTimePicker\bin\Debug\DateTimePicker.exe
+C:\Users\jorge\AppData\Local\Temporary Projects\DateTimePicker\bin\Debug\DateTimePicker.pdb
+C:\Users\jorge\AppData\Local\Temporary Projects\DateTimePicker\bin\Debug\DateTimePicker.xml
+C:\Users\jorge\AppData\Local\Temporary Projects\DateTimePicker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jorge\AppData\Local\Temporary Projects\DateTimePicker\obj\x86\Debug\DateTimePicker.Form1.resources
+C:\Users\jorge\AppData\Local\Temporary Projects\DateTimePicker\obj\x86\Debug\DateTimePicker.Resources.resources
+C:\Users\jorge\AppData\Local\Temporary Projects\DateTimePicker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jorge\AppData\Local\Temporary Projects\DateTimePicker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jorge\AppData\Local\Temporary Projects\DateTimePicker\obj\x86\Debug\DateTimePicker.exe
+C:\Users\jorge\AppData\Local\Temporary Projects\DateTimePicker\obj\x86\Debug\DateTimePicker.xml
+C:\Users\jorge\AppData\Local\Temporary Projects\DateTimePicker\obj\x86\Debug\DateTimePicker.pdb
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.exe
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.xml
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.pdb
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.exe
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.xml
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.pdb
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.exe
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.pdb
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.xml
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.Form1.resources
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.Resources.resources
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.exe
+L:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.xml
+L:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.pdb
+L:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.exe
+L:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.pdb
+L:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.xml
+L:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.Form1.resources
+L:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.Resources.resources
+L:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.exe
+F:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.xml
+F:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.pdb
+F:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.exe
+F:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.pdb
+F:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.xml
+F:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.Form1.resources
+F:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.Resources.resources
+F:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.exe
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.xml
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.pdb
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.exe
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.pdb
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.xml
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.Form1.resources
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.Resources.resources
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.exe
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.xml
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.pdb
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.exe
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.pdb
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.xml
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.Form1.resources
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.Resources.resources
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.exe
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.xml
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.Form1.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.Resources.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer16a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.vbproj.GenerateResource.Cache
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\016a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.exe
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\016a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.xml
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\016a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\016a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.exe
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\016a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\016a_DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.xml
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\016a_DateTimePicker\DateTimePicker\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\016a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.Form1.resources
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\016a_DateTimePicker\DateTimePicker\obj\x86\Debug\DateTimePicker.Resources.resources
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\016a_DateTimePicker\DateTimePicker\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\016a_DateTimePicker\DateTimePicker\obj\x86\Debug\GenerateResource.write.1.tlog

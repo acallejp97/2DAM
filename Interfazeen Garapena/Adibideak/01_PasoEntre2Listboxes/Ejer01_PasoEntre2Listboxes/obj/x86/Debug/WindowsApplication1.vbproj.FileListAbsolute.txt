@@ -1,0 +1,11 @@
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb

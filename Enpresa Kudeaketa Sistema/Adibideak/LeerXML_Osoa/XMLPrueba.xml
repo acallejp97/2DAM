@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+  <name codigo="mtorres">
+    <nombre>Maria  </nombre>
+    <apellido>Torres  </apellido>
+  </name>
+  <name codigo="cortiz">
+    <nombre>Carlos  </nombre>
+    <apellido>Ortiz  </apellido>
+  </name>
+</usuarios>

@@ -1,0 +1,85 @@
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.exe
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.pdb
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.xml
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.Form1.resources
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.Resources.resources
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.exe
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.xml
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.pdb
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.exe
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.xml
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.pdb
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.exe
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.pdb
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.xml
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.Form1.resources
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.Resources.resources
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.exe
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.xml
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.pdb
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.exe
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.pdb
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.xml
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.Form1.resources
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.Resources.resources
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.exe
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.xml
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.pdb
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.exe
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.pdb
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.xml
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.Form1.resources
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.Resources.resources
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.exe
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.xml
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer08b_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.exe
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.xml
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.pdb
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.exe
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.pdb
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.xml
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.Form1.resources
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.Resources.resources
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.vbproj.GenerateResource.Cache
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.Form1.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.Resources.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.vbproj.GenerateResource.Cache
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\bin\Debug\Ejer08b_ControlsFor_Each_Mover.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.Form1.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.Resources.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008c_ControlsFor_Each_Mover\Ejer08b_ControlsFor_Each_Mover\obj\x86\Debug\Ejer08b_ControlsFor_Each_Mover.vbproj.GenerateResource.Cache

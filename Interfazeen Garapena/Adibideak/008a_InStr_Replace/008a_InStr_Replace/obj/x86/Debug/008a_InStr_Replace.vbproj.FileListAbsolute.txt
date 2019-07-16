@@ -1,0 +1,29 @@
+C:\Users\Admin1\AppData\Local\Temporary Projects\008a_InStr_Replace\bin\Debug\008a_InStr_Replace.exe
+C:\Users\Admin1\AppData\Local\Temporary Projects\008a_InStr_Replace\bin\Debug\008a_InStr_Replace.pdb
+C:\Users\Admin1\AppData\Local\Temporary Projects\008a_InStr_Replace\bin\Debug\008a_InStr_Replace.xml
+C:\Users\Admin1\AppData\Local\Temporary Projects\008a_InStr_Replace\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin1\AppData\Local\Temporary Projects\008a_InStr_Replace\obj\x86\Debug\_008a_InStr_Replace.Form1.resources
+C:\Users\Admin1\AppData\Local\Temporary Projects\008a_InStr_Replace\obj\x86\Debug\_008a_InStr_Replace.Resources.resources
+C:\Users\Admin1\AppData\Local\Temporary Projects\008a_InStr_Replace\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin1\AppData\Local\Temporary Projects\008a_InStr_Replace\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin1\AppData\Local\Temporary Projects\008a_InStr_Replace\obj\x86\Debug\008a_InStr_Replace.exe
+C:\Users\Admin1\AppData\Local\Temporary Projects\008a_InStr_Replace\obj\x86\Debug\008a_InStr_Replace.xml
+C:\Users\Admin1\AppData\Local\Temporary Projects\008a_InStr_Replace\obj\x86\Debug\008a_InStr_Replace.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008a_InStr_Replace\008a_InStr_Replace\obj\x86\Debug\008a_InStr_Replace.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008a_InStr_Replace\008a_InStr_Replace\obj\x86\Debug\008a_InStr_Replace.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008a_InStr_Replace\008a_InStr_Replace\obj\x86\Debug\008a_InStr_Replace.pdb
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008a_InStr_Replace\008a_InStr_Replace\obj\x86\Debug\008a_InStr_Replace.exe
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008a_InStr_Replace\008a_InStr_Replace\obj\x86\Debug\008a_InStr_Replace.xml
+G:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008a_InStr_Replace\008a_InStr_Replace\obj\x86\Debug\008a_InStr_Replace.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008a_InStr_Replace\008a_InStr_Replace\obj\x86\Debug\008a_InStr_Replace.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008a_InStr_Replace\008a_InStr_Replace\obj\x86\Debug\008a_InStr_Replace.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\008a_InStr_Replace\008a_InStr_Replace\obj\x86\Debug\008a_InStr_Replace.pdb
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008a_InStr_Replace\008a_InStr_Replace\obj\x86\Debug\008a_InStr_Replace.exe
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008a_InStr_Replace\008a_InStr_Replace\obj\x86\Debug\008a_InStr_Replace.xml
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008a_InStr_Replace\008a_InStr_Replace\obj\x86\Debug\008a_InStr_Replace.pdb
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008a_InStr_Replace\008a_InStr_Replace\bin\Debug\008a_InStr_Replace.exe
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008a_InStr_Replace\008a_InStr_Replace\bin\Debug\008a_InStr_Replace.pdb
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008a_InStr_Replace\008a_InStr_Replace\bin\Debug\008a_InStr_Replace.xml
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008a_InStr_Replace\008a_InStr_Replace\obj\x86\Debug\_008a_InStr_Replace.Form1.resources
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008a_InStr_Replace\008a_InStr_Replace\obj\x86\Debug\_008a_InStr_Replace.Resources.resources
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\008a_InStr_Replace\008a_InStr_Replace\obj\x86\Debug\008a_InStr_Replace.vbproj.GenerateResource.Cache

@@ -1,0 +1,23 @@
+c:\users\in2dm3_07\documents\visual studio 2013\Projects\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+c:\users\in2dm3_07\documents\visual studio 2013\Projects\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+c:\users\in2dm3_07\documents\visual studio 2013\Projects\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+c:\users\in2dm3_07\documents\visual studio 2013\Projects\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.xml
+c:\users\in2dm3_07\documents\visual studio 2013\Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Inventario.resources
+c:\users\in2dm3_07\documents\visual studio 2013\Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Resources.resources
+c:\users\in2dm3_07\documents\visual studio 2013\Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.GenerateResource.Cache
+c:\users\in2dm3_07\documents\visual studio 2013\Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+c:\users\in2dm3_07\documents\visual studio 2013\Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.xml
+c:\users\in2dm3_07\documents\visual studio 2013\Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\in2dm3_07\documents\visual studio 2013\Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.InventarioNuevoEquipo.resources
+E:\Interfazeen Garapena\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+E:\Interfazeen Garapena\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+E:\Interfazeen Garapena\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.xml
+E:\Interfazeen Garapena\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+E:\Interfazeen Garapena\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+E:\Interfazeen Garapena\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+E:\Interfazeen Garapena\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.xml
+E:\Interfazeen Garapena\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.InventarioNuevoEquipo.resources
+E:\Interfazeen Garapena\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Inventario.resources
+E:\Interfazeen Garapena\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Resources.resources
+E:\Interfazeen Garapena\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.GenerateResource.Cache
+E:\Interfazeen Garapena\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.vbprojResolveAssemblyReference.cache

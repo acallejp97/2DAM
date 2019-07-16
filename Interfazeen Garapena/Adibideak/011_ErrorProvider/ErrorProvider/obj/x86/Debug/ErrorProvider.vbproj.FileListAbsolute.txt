@@ -1,0 +1,99 @@
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\ErrorProvider\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\ErrorProvider\obj\x86\Debug\ErrorProvider.Form1.resources
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\ErrorProvider\obj\x86\Debug\ErrorProvider.Resources.resources
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\ErrorProvider\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\ErrorProvider\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\ErrorProvider\bin\Debug\ErrorProvider.exe
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\ErrorProvider\bin\Debug\ErrorProvider.pdb
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\ErrorProvider\bin\Debug\ErrorProvider.xml
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\ErrorProvider\obj\x86\Debug\ErrorProvider.exe
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\ErrorProvider\obj\x86\Debug\ErrorProvider.xml
+E:\Documents and Settings\dai2\Configuración local\Datos de programa\Temporary Projects\ErrorProvider\obj\x86\Debug\ErrorProvider.pdb
+E:\Documents and Settings\dai2\Escritorio\ErrorProvider\ErrorProvider\obj\x86\Debug\ErrorProvider.exe
+E:\Documents and Settings\dai2\Escritorio\ErrorProvider\ErrorProvider\obj\x86\Debug\ErrorProvider.xml
+E:\Documents and Settings\dai2\Escritorio\ErrorProvider\ErrorProvider\obj\x86\Debug\ErrorProvider.pdb
+E:\Documents and Settings\dai2\Escritorio\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ErrorProvider.exe
+E:\Documents and Settings\dai2\Escritorio\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ErrorProvider.xml
+E:\Documents and Settings\dai2\Escritorio\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ErrorProvider.pdb
+E:\Documents and Settings\dai2\Escritorio\ErrorProvider-Marta\ErrorProvider\bin\Debug\ErrorProvider.exe
+E:\Documents and Settings\dai2\Escritorio\ErrorProvider-Marta\ErrorProvider\bin\Debug\ErrorProvider.pdb
+E:\Documents and Settings\dai2\Escritorio\ErrorProvider-Marta\ErrorProvider\bin\Debug\ErrorProvider.xml
+E:\Documents and Settings\dai2\Escritorio\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\dai2\Escritorio\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ErrorProvider.Form1.resources
+E:\Documents and Settings\dai2\Escritorio\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ErrorProvider.Resources.resources
+E:\Documents and Settings\dai2\Escritorio\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents and Settings\dai2\Escritorio\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ErrorProvider.exe
+F:\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ErrorProvider.xml
+F:\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ErrorProvider.pdb
+F:\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\bin\Debug\ErrorProvider.exe
+F:\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\bin\Debug\ErrorProvider.pdb
+F:\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\bin\Debug\ErrorProvider.xml
+F:\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ErrorProvider.Form1.resources
+F:\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ErrorProvider.Resources.resources
+F:\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ErrorProvider.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ErrorProvider.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ErrorProvider.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\bin\Debug\ErrorProvider.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\bin\Debug\ErrorProvider.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\bin\Debug\ErrorProvider.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ErrorProvider.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\ErrorProvider.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\ErrorProvider-Marta\ErrorProvider\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_ErrorProvider01\ErrorProvider\obj\x86\Debug\ErrorProvider.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_ErrorProvider01\ErrorProvider\obj\x86\Debug\ErrorProvider.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_ErrorProvider01\ErrorProvider\obj\x86\Debug\ErrorProvider.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_ErrorProvider01\ErrorProvider\bin\Debug\ErrorProvider.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_ErrorProvider01\ErrorProvider\bin\Debug\ErrorProvider.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_ErrorProvider01\ErrorProvider\bin\Debug\ErrorProvider.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_ErrorProvider01\ErrorProvider\obj\x86\Debug\ErrorProvider.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_ErrorProvider01\ErrorProvider\obj\x86\Debug\ErrorProvider.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_ErrorProvider01\ErrorProvider\obj\x86\Debug\ErrorProvider.vbproj.GenerateResource.Cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider\ErrorProvider\obj\x86\Debug\ErrorProvider.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider\ErrorProvider\obj\x86\Debug\ErrorProvider.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider\ErrorProvider\obj\x86\Debug\ErrorProvider.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\obj\x86\Debug\ErrorProvider.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\obj\x86\Debug\ErrorProvider.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\obj\x86\Debug\ErrorProvider.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\bin\Debug\ErrorProvider.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\bin\Debug\ErrorProvider.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\bin\Debug\ErrorProvider.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\obj\x86\Debug\ErrorProvider.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\obj\x86\Debug\ErrorProvider.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\obj\x86\Debug\ErrorProvider.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\obj\x86\Debug\ErrorProvider.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\obj\x86\Debug\ErrorProvider.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\bin\Debug\ErrorProvider.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\bin\Debug\ErrorProvider.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\bin\Debug\ErrorProvider.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\obj\x86\Debug\ErrorProvider.Form1.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\obj\x86\Debug\ErrorProvider.Resources.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider_NODADOTODAVIA\ErrorProvider\obj\x86\Debug\ErrorProvider.vbproj.GenerateResource.Cache
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider\ErrorProvider\obj\x86\Debug\ErrorProvider.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider\ErrorProvider\obj\x86\Debug\ErrorProvider.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider\ErrorProvider\obj\x86\Debug\ErrorProvider.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider\ErrorProvider\bin\Debug\ErrorProvider.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider\ErrorProvider\bin\Debug\ErrorProvider.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider\ErrorProvider\bin\Debug\ErrorProvider.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider\ErrorProvider\obj\x86\Debug\ErrorProvider.Form1.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider\ErrorProvider\obj\x86\Debug\ErrorProvider.Resources.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_ErrorProvider\ErrorProvider\obj\x86\Debug\ErrorProvider.vbproj.GenerateResource.Cache
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_ErrorProvider\ErrorProvider\obj\x86\Debug\ErrorProvider.exe
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_ErrorProvider\ErrorProvider\obj\x86\Debug\ErrorProvider.xml
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_ErrorProvider\ErrorProvider\obj\x86\Debug\ErrorProvider.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_ErrorProvider\ErrorProvider\bin\Debug\ErrorProvider.exe
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_ErrorProvider\ErrorProvider\bin\Debug\ErrorProvider.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_ErrorProvider\ErrorProvider\bin\Debug\ErrorProvider.xml
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_ErrorProvider\ErrorProvider\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_ErrorProvider\ErrorProvider\obj\x86\Debug\ErrorProvider.Form1.resources
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_ErrorProvider\ErrorProvider\obj\x86\Debug\ErrorProvider.Resources.resources
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_ErrorProvider\ErrorProvider\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_ErrorProvider\ErrorProvider\obj\x86\Debug\GenerateResource.write.1.tlog

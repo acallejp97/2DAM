@@ -1,0 +1,96 @@
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.exe
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.pdb
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.xml
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer05a_MsgboxHandles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Form1.resources
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Resources.resources
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer05a_MsgboxHandles\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer05a_MsgboxHandles\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.exe
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.xml
+C:\Users\jorge\AppData\Local\Temporary Projects\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.pdb
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.exe
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.xml
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.pdb
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.exe
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.pdb
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.xml
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Form1.resources
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Resources.resources
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.exe
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.xml
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.pdb
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.exe
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.pdb
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.xml
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Form1.resources
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Resources.resources
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.exe
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.xml
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.pdb
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.exe
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.pdb
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.xml
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Form1.resources
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Resources.resources
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles - copia\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles - copia\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles - copia\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles - copia\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles - copia\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles - copia\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles - copia\Ejer05a_MsgboxHandles\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles - copia\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles - copia\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles - copia\Ejer05a_MsgboxHandles\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Ejer05a_MsgboxHandles - copia\Ejer05a_MsgboxHandles\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\005a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\005a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\005a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Form1.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Resources.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.vbproj.GenerateResource.Cache
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Form1.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Resources.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.vbproj.GenerateResource.Cache
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.exe
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.xml
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.pdb
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.exe
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.pdb
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\bin\Debug\Ejer05a_MsgboxHandles.xml
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Form1.resources
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.Resources.resources
+J:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\005a_MsgboxHandles\Ejer05a_MsgboxHandles\obj\x86\Debug\Ejer05a_MsgboxHandles.vbproj.GenerateResource.Cache

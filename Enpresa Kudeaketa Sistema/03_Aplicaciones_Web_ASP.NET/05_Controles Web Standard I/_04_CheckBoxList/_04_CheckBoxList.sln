@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "_04_CheckBoxList", "http://localhost:52555", "{A60FD9D6-4CED-4867-9A87-2EF881A5E523}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52555"
+		Debug.AspNetCompiler.PhysicalPath = "E:\2ºDAM\SGE\03_Aplicaciones_Web_ASP.NET\05_Controles Web Standard I\_04_CheckBoxList\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52555\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52555"
+		Release.AspNetCompiler.PhysicalPath = "E:\2ºDAM\SGE\03_Aplicaciones_Web_ASP.NET\05_Controles Web Standard I\_04_CheckBoxList\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52555\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "E:\2ºDAM\SGE\03_Aplicaciones_Web_ASP.NET\05_Controles Web Standard I\_04_CheckBoxList\"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A60FD9D6-4CED-4867-9A87-2EF881A5E523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60FD9D6-4CED-4867-9A87-2EF881A5E523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

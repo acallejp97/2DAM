@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Z1a_KeyPres", "Z1a_KeyPres\Z1a_KeyPres.vbproj", "{8F4A05B0-C1A8-4256-8321-6BB92CBFF99E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F4A05B0-C1A8-4256-8321-6BB92CBFF99E}.Debug|x86.ActiveCfg = Debug|x86
+		{8F4A05B0-C1A8-4256-8321-6BB92CBFF99E}.Debug|x86.Build.0 = Debug|x86
+		{8F4A05B0-C1A8-4256-8321-6BB92CBFF99E}.Release|x86.ActiveCfg = Release|x86
+		{8F4A05B0-C1A8-4256-8321-6BB92CBFF99E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

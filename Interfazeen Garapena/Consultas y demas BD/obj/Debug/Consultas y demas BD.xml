@@ -1,0 +1,204 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ConsultasydemasBD
+</name>
+</assembly>
+<members>
+<member name="P:Consultas_y_demas_BD.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Consultas_y_demas_BD.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.CategoriesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.CustomersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.EmployeesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.OrderDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.OrdersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.ProductsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.ShippersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.SuppliersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.VBDotNetShippersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.CategoriesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.CustomersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.EmployeesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.OrderDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.OrdersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.ProductsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.ShippersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.SuppliersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.VBDotNetShippersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.CategoriesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.CustomersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.EmployeesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.OrderDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.OrdersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.ProductsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.ShippersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.SuppliersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet.VBDotNetShippersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSetTableAdapters.CategoriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSetTableAdapters.CustomersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSetTableAdapters.EmployeesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSetTableAdapters.OrderDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSetTableAdapters.OrdersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSetTableAdapters.ProductsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSetTableAdapters.ShippersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSetTableAdapters.SuppliersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSetTableAdapters.VBDotNetShippersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Consultas_y_demas_BD.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Consultas_y_demas_BD.NorthwindDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Consultas_y_demas_BD.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Consultas_y_demas_BD.NorthwindDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Consultas_y_demas_BD.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Consultas_y_demas_BD.NorthwindDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Consultas_y_demas_BD.NorthwindDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Consultas_y_demas_BD.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateAll(Consultas_y_demas_BD.NorthwindDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Consultas_y_demas_BD.NorthwindDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

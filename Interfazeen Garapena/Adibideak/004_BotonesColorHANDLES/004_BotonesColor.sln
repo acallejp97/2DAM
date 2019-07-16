@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "004_BotonesColor", "004_BotonesColor\004_BotonesColor.vbproj", "{498F0B5A-7C78-4E64-8741-E7069A53800A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498F0B5A-7C78-4E64-8741-E7069A53800A}.Debug|x86.ActiveCfg = Debug|x86
+		{498F0B5A-7C78-4E64-8741-E7069A53800A}.Debug|x86.Build.0 = Debug|x86
+		{498F0B5A-7C78-4E64-8741-E7069A53800A}.Release|x86.ActiveCfg = Release|x86
+		{498F0B5A-7C78-4E64-8741-E7069A53800A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

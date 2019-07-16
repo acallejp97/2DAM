@@ -1,0 +1,42 @@
+﻿body {
+}
+    .alinearDerecha
+{
+	text-align:right;
+	font-style:normal;
+	font-size:x-large;
+	color:Maroon;
+	background:Yellow;
+	position: relative;
+	top: 7px;
+	left: 1px;
+    width: 151px;
+}
+.Bestela
+{
+	text-align:justify;
+	font-style:normal;
+	font-size:x-large;
+	color:blueviolet;
+	background:Black;
+	position: relative;
+	top: 7px;
+	left: 1px;
+    width: 151px;
+}
+.botonsubmit {
+  color:#f00;
+  background-color:#bbb;
+  border: 1px solid #fff;
+}
+.Etiketa
+{
+border-color: #00CC00; 
+border-style: solid; 
+background-color: #FF6600; 
+color: #FFFFFF;
+font-family: Arial; 
+font-size: 10pt; 
+font-weight: bold;
+}
+

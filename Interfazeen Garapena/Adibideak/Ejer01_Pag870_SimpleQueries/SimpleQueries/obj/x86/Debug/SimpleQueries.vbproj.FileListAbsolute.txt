@@ -1,0 +1,172 @@
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.exe
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.pdb
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.xml
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Form1.resources
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Resources.resources
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries_ACCESS\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries_ACCESS\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries_ACCESS\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries_ACCESS\SimpleQueries\bin\Debug\SimpleQueries.exe
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries_ACCESS\SimpleQueries\bin\Debug\SimpleQueries.pdb
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries_ACCESS\SimpleQueries\bin\Debug\SimpleQueries.xml
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries_ACCESS\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries_ACCESS\SimpleQueries\obj\x86\Debug\SimpleQuery.Form1.resources
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries_ACCESS\SimpleQueries\obj\x86\Debug\SimpleQuery.Resources.resources
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries_ACCESS\SimpleQueries\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\SimpleQueries_ACCESS\SimpleQueries\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.exe
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.pdb
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.xml
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Form1.resources
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Resources.resources
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+L:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+L:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+L:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+L:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.exe
+L:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.pdb
+L:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.xml
+L:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Form1.resources
+L:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Resources.resources
+L:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.exe
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.pdb
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.xml
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Form1.resources
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Resources.resources
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+I:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.exe
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.pdb
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.xml
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Form1.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Resources.resources
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.write.1.tlog
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.exe
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.pdb
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.xml
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Form1.resources
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Resources.resources
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.read.1.tlog
+T:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+F:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+F:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+F:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.exe
+F:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.pdb
+F:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.xml
+F:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Form1.resources
+F:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Resources.resources
+F:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.exe
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.pdb
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.xml
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Form1.resources
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Resources.resources
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.exe
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.pdb
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.xml
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Form1.resources
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Resources.resources
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\2012_13_Desarrollo de interfaces\01-02-03-DRSP_VB2010\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+I:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+I:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+G:\DAM\EU\2013_14_InterfazeenGarapena\01-02-03-DRSP_VB2010\2_Ebaluaketa\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+G:\DAM\EU\2013_14_InterfazeenGarapena\01-02-03-DRSP_VB2010\2_Ebaluaketa\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+G:\DAM\EU\2013_14_InterfazeenGarapena\01-02-03-DRSP_VB2010\2_Ebaluaketa\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+L:\DAM\EU\2013_14_InterfazeenGarapena\01-02-03-DRSP_VB2010\2_Ebaluaketa\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+L:\DAM\EU\2013_14_InterfazeenGarapena\01-02-03-DRSP_VB2010\2_Ebaluaketa\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+L:\DAM\EU\2013_14_InterfazeenGarapena\01-02-03-DRSP_VB2010\2_Ebaluaketa\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+L:\DAM\EU\2013_14_InterfazeenGarapena\01-02-03-DRSP_VB2010\2_Ebaluaketa\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.exe
+L:\DAM\EU\2013_14_InterfazeenGarapena\01-02-03-DRSP_VB2010\2_Ebaluaketa\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.pdb
+L:\DAM\EU\2013_14_InterfazeenGarapena\01-02-03-DRSP_VB2010\2_Ebaluaketa\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.xml
+L:\DAM\EU\2013_14_InterfazeenGarapena\01-02-03-DRSP_VB2010\2_Ebaluaketa\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\DAM\EU\2013_14_InterfazeenGarapena\01-02-03-DRSP_VB2010\2_Ebaluaketa\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Form1.resources
+L:\DAM\EU\2013_14_InterfazeenGarapena\01-02-03-DRSP_VB2010\2_Ebaluaketa\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Resources.resources
+L:\DAM\EU\2013_14_InterfazeenGarapena\01-02-03-DRSP_VB2010\2_Ebaluaketa\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\DAM\EU\2013_14_InterfazeenGarapena\01-02-03-DRSP_VB2010\2_Ebaluaketa\Ch22_ProgramarConAdo.Net_CODIGO\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DAM\EU\14_15_IG\01-02-03-DRSP_VB2010\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+F:\DAM\EU\14_15_IG\01-02-03-DRSP_VB2010\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+F:\DAM\EU\14_15_IG\01-02-03-DRSP_VB2010\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+F:\DAM\EU\14_15_IG\01-02-03-DRSP_VB2010\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.exe
+F:\DAM\EU\14_15_IG\01-02-03-DRSP_VB2010\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.pdb
+F:\DAM\EU\14_15_IG\01-02-03-DRSP_VB2010\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.xml
+F:\DAM\EU\14_15_IG\01-02-03-DRSP_VB2010\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Form1.resources
+F:\DAM\EU\14_15_IG\01-02-03-DRSP_VB2010\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Resources.resources
+F:\DAM\EU\14_15_IG\01-02-03-DRSP_VB2010\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.vbproj.GenerateResource.Cache
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.exe
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.pdb
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.xml
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Form1.resources
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Resources.resources
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Cristina\DAM\IG\IG_15_16\2_Ebaluaketa\02_Ch22_ProgramarConAdo.Net_CODIGO_access2010\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.xml
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.exe
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\bin\Debug\SimpleQueries.xml
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Form1.resources
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\SimpleQuery.Resources.resources
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\EjerConACCESS\Ejer01_Pag870_SimpleQueries\SimpleQueries\obj\x86\Debug\GenerateResource.write.1.tlog

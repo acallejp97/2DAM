@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+
+
+  <siteMapNode url="Hasiera.aspx" title="Hasiera" description="Hasiera">
+
+    <siteMapNode url="Elikadura.aspx" title="Elikadura" description="Elikagaiak">
+      <siteMapNode url="Haragiak.aspx" title="Haragiak" description="Haragiak" />
+      <siteMapNode url="Arrainak.aspx" title="Arrainak" description="Arrainak" />
+      <siteMapNode url="Izoztuak.aspx" title="Izoztuak" description="Izoztuak">
+        <siteMapNode url="PlaterPrestatuak.aspx" title="Plater prestatuak"  description="Plater prestatuak" />
+        <siteMapNode url="Izozkiak.aspx" title="Izozkiak" description="Izozkiak eta tarta izoztuta" />
+        <siteMapNode url="Pizzas.aspx" title="Pizzas"  description="Pizzas eta pasta izoztuta" />
+      </siteMapNode>
+    </siteMapNode>
+
+    <siteMapNode url="GarbiketaEtxea.aspx" title="Garbiketa eta etxea" description="Garbiketa eta etxea">
+      <siteMapNode url="Garbiketa.aspx" title="Garbiketa" description="Garbiketa" />
+      <siteMapNode url="Higienea.aspx" title="Higienea" description="Higienea eta edertasuna" />
+    </siteMapNode>
+
+    <siteMapNode url="Edariak.aspx" title="Edariak" description="Edariak eta freskagarriak">
+      <siteMapNode url="Alkohola.aspx" title="Alkohola" description="Alkohola" />
+      <siteMapNode url="FreskagarriakZukoak.aspx" title="Freskagarriak eta zukoak" description="Freskagarriak eta zukoak" />
+    </siteMapNode>
+
+  </siteMapNode>
+
+
+</siteMap>

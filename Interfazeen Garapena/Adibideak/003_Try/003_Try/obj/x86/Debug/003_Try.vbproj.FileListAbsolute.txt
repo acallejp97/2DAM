@@ -1,0 +1,35 @@
+C:\Users\Admin1\AppData\Local\Temporary Projects\003_Try\bin\Debug\003_Try.exe
+C:\Users\Admin1\AppData\Local\Temporary Projects\003_Try\bin\Debug\003_Try.pdb
+C:\Users\Admin1\AppData\Local\Temporary Projects\003_Try\bin\Debug\003_Try.xml
+C:\Users\Admin1\AppData\Local\Temporary Projects\003_Try\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin1\AppData\Local\Temporary Projects\003_Try\obj\x86\Debug\_003_Try.Form1.resources
+C:\Users\Admin1\AppData\Local\Temporary Projects\003_Try\obj\x86\Debug\_003_Try.Resources.resources
+C:\Users\Admin1\AppData\Local\Temporary Projects\003_Try\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin1\AppData\Local\Temporary Projects\003_Try\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin1\AppData\Local\Temporary Projects\003_Try\obj\x86\Debug\003_Try.exe
+C:\Users\Admin1\AppData\Local\Temporary Projects\003_Try\obj\x86\Debug\003_Try.xml
+C:\Users\Admin1\AppData\Local\Temporary Projects\003_Try\obj\x86\Debug\003_Try.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\003_Try\003_Try\obj\x86\Debug\003_Try.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\003_Try\003_Try\obj\x86\Debug\003_Try.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\003_Try\003_Try\obj\x86\Debug\003_Try.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\003_Try\003_Try\obj\x86\Debug\003_Try.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\003_Try\003_Try\obj\x86\Debug\003_Try.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\003_Try\003_Try\obj\x86\Debug\003_Try.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\003_Try\003_Try\bin\Debug\003_Try.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\003_Try\003_Try\bin\Debug\003_Try.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\003_Try\003_Try\bin\Debug\003_Try.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\003_Try\003_Try\obj\x86\Debug\_003_Try.Form1.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\003_Try\003_Try\obj\x86\Debug\_003_Try.Resources.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\003_Try\003_Try\obj\x86\Debug\003_Try.vbproj.GenerateResource.Cache
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\003_Try\003_Try\obj\x86\Debug\003_Try.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\003_Try\003_Try\obj\x86\Debug\003_Try.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\003_Try\003_Try\obj\x86\Debug\003_Try.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\003_Try\003_Try\obj\x86\Debug\003_Try.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\003_Try\003_Try\obj\x86\Debug\003_Try.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\003_Try\003_Try\obj\x86\Debug\003_Try.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\003_Try\003_Try\bin\Debug\003_Try.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\003_Try\003_Try\bin\Debug\003_Try.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\003_Try\003_Try\bin\Debug\003_Try.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\003_Try\003_Try\obj\x86\Debug\_003_Try.Form1.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\003_Try\003_Try\obj\x86\Debug\_003_Try.Resources.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\003_Try\003_Try\obj\x86\Debug\003_Try.vbproj.GenerateResource.Cache

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Inicio.aspx" title="Inicio" description="Página de inicio">
+        <siteMapNode url="Alimentacion.aspx" title="Alimentación" description="Productos de alimentación">
+          <siteMapNode url="Carnes.aspx" title="Carnes" description="Productos cárnicos" />
+          <siteMapNode url="Pescados.aspx" title="Pescados" description="Productos de pescadería" />
+          <siteMapNode url="Congelados.aspx" title="Congelados" description="Productos congelados">
+            <siteMapNode url="PlatosPrecocinados.aspx" title="Platos precocinados"  description="Platos precocinados y especialidades" />
+            <siteMapNode url="Helados.aspx" title="Helados" description="Helados y tartas heladas" />
+            <siteMapNode url="Pizzas.aspx" title="Pizzas"  description="Pizzas y pastas congeladas" />
+          </siteMapNode>
+        </siteMapNode>
+    
+        <siteMapNode url="Drogueria.aspx" title="Droguería" description="Productos de droguería">
+          <siteMapNode url="Limpieza.aspx" title="Productos de limpieza" description="Productos de limpieza" />
+          <siteMapNode url="Aseo.aspx" title="Aseo personal" description="Aseo personal, perfumes y colonias" />
+        </siteMapNode>
+    
+        <siteMapNode url="Bebidas.aspx" title="Bebidas" description="Bebidas y refrescos">
+          <siteMapNode url="Alcoholicas.aspx" title="Alcohólicas" description="Bebidas alcohólicas" />
+          <siteMapNode url="NoAlcoholicas.aspx" title="No alcohólicas" description="Bebidas no alcohólicas (zumos y refrescos)" />
+        </siteMapNode>
+  </siteMapNode>
+</siteMap>

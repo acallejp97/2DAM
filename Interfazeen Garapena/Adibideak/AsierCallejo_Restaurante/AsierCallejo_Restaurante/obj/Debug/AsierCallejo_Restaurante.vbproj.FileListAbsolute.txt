@@ -1,0 +1,11 @@
+c:\users\asier\documents\visual studio 2013\Projects\AsierCallejo_Restaurante\AsierCallejo_Restaurante\bin\Debug\AsierCallejo_Restaurante.exe.config
+C:\Users\Asier\Documents\Visual Studio 2013\Projects\AsierCallejo_Restaurante\AsierCallejo_Restaurante\bin\Debug\AsierCallejo_Restaurante.exe
+C:\Users\Asier\Documents\Visual Studio 2013\Projects\AsierCallejo_Restaurante\AsierCallejo_Restaurante\bin\Debug\AsierCallejo_Restaurante.pdb
+C:\Users\Asier\Documents\Visual Studio 2013\Projects\AsierCallejo_Restaurante\AsierCallejo_Restaurante\bin\Debug\AsierCallejo_Restaurante.xml
+C:\Users\Asier\Documents\Visual Studio 2013\Projects\AsierCallejo_Restaurante\AsierCallejo_Restaurante\obj\Debug\AsierCallejo_Restaurante.Form1.resources
+C:\Users\Asier\Documents\Visual Studio 2013\Projects\AsierCallejo_Restaurante\AsierCallejo_Restaurante\obj\Debug\AsierCallejo_Restaurante.Form2.resources
+C:\Users\Asier\Documents\Visual Studio 2013\Projects\AsierCallejo_Restaurante\AsierCallejo_Restaurante\obj\Debug\AsierCallejo_Restaurante.Resources.resources
+C:\Users\Asier\Documents\Visual Studio 2013\Projects\AsierCallejo_Restaurante\AsierCallejo_Restaurante\obj\Debug\AsierCallejo_Restaurante.vbproj.GenerateResource.Cache
+C:\Users\Asier\Documents\Visual Studio 2013\Projects\AsierCallejo_Restaurante\AsierCallejo_Restaurante\obj\Debug\AsierCallejo_Restaurante.exe
+C:\Users\Asier\Documents\Visual Studio 2013\Projects\AsierCallejo_Restaurante\AsierCallejo_Restaurante\obj\Debug\AsierCallejo_Restaurante.xml
+C:\Users\Asier\Documents\Visual Studio 2013\Projects\AsierCallejo_Restaurante\AsierCallejo_Restaurante\obj\Debug\AsierCallejo_Restaurante.pdb

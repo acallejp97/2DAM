@@ -1,0 +1,30 @@
+G:\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.exe.config
+G:\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.exe
+G:\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+G:\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.xml
+G:\BaseDeDatos\BaseDeDatos\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\BaseDeDatos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.Form1.resources
+G:\BaseDeDatos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.Resources.resources
+G:\BaseDeDatos\BaseDeDatos\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\BaseDeDatos\BaseDeDatos\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\BaseDeDatos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.exe
+G:\BaseDeDatos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.xml
+G:\BaseDeDatos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.pdb
+G:\BaseDeDatos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.Inserta.resources
+I:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\BaseDeDatosVB_Modulos\BaseDeDatos\bin\Debug\BaseDeDatos.exe.config
+I:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\BaseDeDatosVB_Modulos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.exe
+I:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\BaseDeDatosVB_Modulos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.xml
+I:\1314_DI\01-02-03-DRSP\Cap11_\Ch22_ProgramarConAdo.Net_CODIGO\BaseDeDatosVB_Modulos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\BaseDeDatosVB_Modulos\BaseDeDatos\bin\Debug\BaseDeDatos.exe.config
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\BaseDeDatosVB_Modulos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.exe
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\BaseDeDatosVB_Modulos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.xml
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\BaseDeDatosVB_Modulos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\BaseDeDatosVB_Modulos\BaseDeDatos\bin\Debug\BaseDeDatos.exe
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\BaseDeDatosVB_Modulos\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\BaseDeDatosVB_Modulos\BaseDeDatos\bin\Debug\BaseDeDatos.xml
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\BaseDeDatosVB_Modulos\BaseDeDatos\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\BaseDeDatosVB_Modulos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.Form1.resources
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\BaseDeDatosVB_Modulos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.Inserta.resources
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\BaseDeDatosVB_Modulos\BaseDeDatos\obj\x86\Debug\BaseDeDatos.Resources.resources
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\BaseDeDatosVB_Modulos\BaseDeDatos\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\UD8_DatuBaseak\BaseDeDatosVB_Modulos\BaseDeDatos\obj\x86\Debug\GenerateResource.write.1.tlog

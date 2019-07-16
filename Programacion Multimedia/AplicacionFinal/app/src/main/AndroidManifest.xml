@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.in2dm3_07.aplicacionfinal">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!--Todas las clases que he tenido que usar-->
+        <activity android:name=".ManejoNuevo.NuevoUsuario"></activity>
+        <activity android:name=".ManejoNuevo.NuevoLibro"></activity>
+        <activity android:name=".ManejoNuevo.NuevoPrestamo.NuevoPrestamo"></activity>
+        <activity android:name=".ManejoNuevo.NuevoPrestamo.NuevoPrestamo2"></activity>
+        <activity android:name=".SeleccionarPrestamos.SeleccionarPrestamo"></activity>
+        <activity android:name=".SeleccionarPrestamos.SeleccionarPrestamo2"></activity>
+        <activity android:name=".CargarMenu.AcercaDe"></activity>
+        <activity android:name=".CargarMenu.Libros"></activity>
+        <activity android:name=".CargarMenu.Usuarios"></activity>
+        <activity android:name=".CargarMenu.Individual.UsuariosIndividual"></activity>
+        <activity android:name=".CargarMenu.Individual.LibrosIndividual"></activity>
+  </application>
+    <!--Los permisos que tiene una aplicacion-->
+    <uses-permission android:name="android.permission.CALL_PHONE"></uses-permission>
+
+</manifest>

@@ -1,0 +1,49 @@
+C:\Users\Admin1\AppData\Local\Temporary Projects\002_MsgBoxInputBox\bin\Debug\002_MsgBoxInputBox.exe
+C:\Users\Admin1\AppData\Local\Temporary Projects\002_MsgBoxInputBox\bin\Debug\002_MsgBoxInputBox.pdb
+C:\Users\Admin1\AppData\Local\Temporary Projects\002_MsgBoxInputBox\bin\Debug\002_MsgBoxInputBox.xml
+C:\Users\Admin1\AppData\Local\Temporary Projects\002_MsgBoxInputBox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin1\AppData\Local\Temporary Projects\002_MsgBoxInputBox\obj\x86\Debug\_002_MsgBoxInputBox.Form1.resources
+C:\Users\Admin1\AppData\Local\Temporary Projects\002_MsgBoxInputBox\obj\x86\Debug\_002_MsgBoxInputBox.Resources.resources
+C:\Users\Admin1\AppData\Local\Temporary Projects\002_MsgBoxInputBox\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin1\AppData\Local\Temporary Projects\002_MsgBoxInputBox\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin1\AppData\Local\Temporary Projects\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.exe
+C:\Users\Admin1\AppData\Local\Temporary Projects\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.xml
+C:\Users\Admin1\AppData\Local\Temporary Projects\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\bin\Debug\002_MsgBoxInputBox.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\bin\Debug\002_MsgBoxInputBox.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\bin\Debug\002_MsgBoxInputBox.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\_002_MsgBoxInputBox.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\_002_MsgBoxInputBox.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\bin\Debug\002_MsgBoxInputBox.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\bin\Debug\002_MsgBoxInputBox.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\bin\Debug\002_MsgBoxInputBox.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\_002_MsgBoxInputBox.Form1.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\_002_MsgBoxInputBox.Resources.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.vbproj.GenerateResource.Cache
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\bin\Debug\002_MsgBoxInputBox.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\bin\Debug\002_MsgBoxInputBox.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\bin\Debug\002_MsgBoxInputBox.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\_002_MsgBoxInputBox.Form1.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\_002_MsgBoxInputBox.Resources.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.vbproj.GenerateResource.Cache
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\002_MsgBoxInputBox\002_MsgBoxInputBox\bin\Debug\002_MsgBoxInputBox.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\002_MsgBoxInputBox\002_MsgBoxInputBox\bin\Debug\002_MsgBoxInputBox.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\002_MsgBoxInputBox\002_MsgBoxInputBox\bin\Debug\002_MsgBoxInputBox.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\_002_MsgBoxInputBox.Form1.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\_002_MsgBoxInputBox.Resources.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\002_MsgBoxInputBox\002_MsgBoxInputBox\obj\x86\Debug\002_MsgBoxInputBox.vbproj.GenerateResource.Cache

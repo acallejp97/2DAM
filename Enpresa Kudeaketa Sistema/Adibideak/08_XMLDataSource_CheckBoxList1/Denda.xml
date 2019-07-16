@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Fruteria>
+	<Elemento id="1" Categoria="Frutas"> 
+		<Opcion Seleccion= "Peras"/> 
+		<Opcion Seleccion= "Fresas"/> 
+		<Opcion Seleccion="Ciruelas"/> 
+	</Elemento>
+	<Elemento id="2" Categoria="Verduras"> 
+		<Opcion Seleccion="Acelgas"/> 
+		<Opcion Seleccion="Coliflor"/> 
+		<Opcion Seleccion="Espinacas"/> 
+	</Elemento>
+	<Elemento id="3" Categoria="Legumbres"> 
+		<Opcion Seleccion="Garbanzos"/> 
+		<Opcion Seleccion="Lentejas"/> 
+		<Opcion Seleccion="Judias"/> 
+	</Elemento>
+	<Elemento id="4" Categoria="Hortalizas"> 
+		<Opcion Seleccion="Cebollas"/> 
+		<Opcion Seleccion="Alcachofas"/>
+		<Opcion Seleccion="Zanahorias"/> 
+	</Elemento>
+</Fruteria>

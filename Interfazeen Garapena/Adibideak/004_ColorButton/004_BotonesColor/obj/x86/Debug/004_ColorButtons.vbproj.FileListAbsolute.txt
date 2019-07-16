@@ -1,0 +1,9 @@
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\004_ColorButton\004_BotonesColor\bin\Debug\004_BotonesColor.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\004_ColorButton\004_BotonesColor\bin\Debug\004_BotonesColor.pdb
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\004_ColorButton\004_BotonesColor\bin\Debug\004_BotonesColor.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\004_ColorButton\004_BotonesColor\obj\x86\Debug\_004_BotonesColor.Form1.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\004_ColorButton\004_BotonesColor\obj\x86\Debug\_004_BotonesColor.Resources.resources
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\004_ColorButton\004_BotonesColor\obj\x86\Debug\004_ColorButtons.vbproj.GenerateResource.Cache
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\004_ColorButton\004_BotonesColor\obj\x86\Debug\004_BotonesColor.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\004_ColorButton\004_BotonesColor\obj\x86\Debug\004_BotonesColor.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\004_ColorButton\004_BotonesColor\obj\x86\Debug\004_BotonesColor.pdb

@@ -1,0 +1,32 @@
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\bin\Debug\004_BotonesColor.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\bin\Debug\004_BotonesColor.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\bin\Debug\004_BotonesColor.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\_004_BotonesColor.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\_004_BotonesColor.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\004_BotonesColor.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\004_BotonesColor.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\004_BotonesColor.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\004_BotonesColor.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\004_BotonesColor.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\004_BotonesColor.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\bin\Debug\004_BotonesColor.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\bin\Debug\004_BotonesColor.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\bin\Debug\004_BotonesColor.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\_004_BotonesColor.Form1.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\_004_BotonesColor.Resources.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\004_BotonesColor.vbproj.GenerateResource.Cache
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\004_BotonesColor.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\004_BotonesColor.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\004_BotonesColor.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\bin\Debug\004_BotonesColor.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\bin\Debug\004_BotonesColor.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\bin\Debug\004_BotonesColor.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\_004_BotonesColor.Form1.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\_004_BotonesColor.Resources.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\004_BotonesColor\004_BotonesColor\obj\x86\Debug\004_BotonesColor.vbproj.GenerateResource.Cache
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\004_ColorButton\004_BotonesColor\obj\x86\Debug\004_BotonesColor.exe
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\004_ColorButton\004_BotonesColor\obj\x86\Debug\004_BotonesColor.xml
+F:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\004_ColorButton\004_BotonesColor\obj\x86\Debug\004_BotonesColor.pdb

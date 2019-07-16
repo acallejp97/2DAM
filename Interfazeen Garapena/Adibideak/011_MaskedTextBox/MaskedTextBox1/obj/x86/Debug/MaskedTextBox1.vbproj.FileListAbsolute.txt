@@ -1,0 +1,104 @@
+E:\Eunice\MaskedTextBox1\MaskedTextBox1\bin\Debug\MaskedTextBox1.exe
+E:\Eunice\MaskedTextBox1\MaskedTextBox1\bin\Debug\MaskedTextBox1.pdb
+E:\Eunice\MaskedTextBox1\MaskedTextBox1\bin\Debug\MaskedTextBox1.xml
+E:\Eunice\MaskedTextBox1\MaskedTextBox1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Eunice\MaskedTextBox1\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Form1.resources
+E:\Eunice\MaskedTextBox1\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Resources.resources
+E:\Eunice\MaskedTextBox1\MaskedTextBox1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Eunice\MaskedTextBox1\MaskedTextBox1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Eunice\MaskedTextBox1\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.exe
+E:\Eunice\MaskedTextBox1\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.xml
+E:\Eunice\MaskedTextBox1\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.pdb
+G:\MaskedTextBox1\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.exe
+G:\MaskedTextBox1\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.xml
+G:\MaskedTextBox1\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.pdb
+K:\MaskedTextBox1\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.exe
+K:\MaskedTextBox1\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.xml
+K:\MaskedTextBox1\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.pdb
+E:\Documents and Settings\dai2\Escritorio\MaskedTextBoxEunice\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.exe
+E:\Documents and Settings\dai2\Escritorio\MaskedTextBoxEunice\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.xml
+E:\Documents and Settings\dai2\Escritorio\MaskedTextBoxEunice\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.pdb
+F:\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.exe
+F:\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.xml
+F:\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.pdb
+F:\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\bin\Debug\MaskedTextBox1.exe
+F:\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\bin\Debug\MaskedTextBox1.pdb
+F:\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\bin\Debug\MaskedTextBox1.xml
+F:\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Form1.resources
+F:\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Resources.resources
+F:\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\bin\Debug\MaskedTextBox1.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\bin\Debug\MaskedTextBox1.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\bin\Debug\MaskedTextBox1.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\Componentes Nuevos\MaskedTextBox_Eunice\MaskedTextBox1\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.exe
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.xml
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.pdb
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\bin\Debug\MaskedTextBox1.exe
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\bin\Debug\MaskedTextBox1.pdb
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\bin\Debug\MaskedTextBox1.xml
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Form1.resources
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Resources.resources
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\bin\Debug\MaskedTextBox1.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\bin\Debug\MaskedTextBox1.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\bin\Debug\MaskedTextBox1.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\_MaskedTextBox01\MaskedTextBox1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\bin\Debug\MaskedTextBox1.exe
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\bin\Debug\MaskedTextBox1.pdb
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\bin\Debug\MaskedTextBox1.xml
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Form1.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Resources.resources
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\1314_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\bin\Debug\MaskedTextBox1.exe
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\bin\Debug\MaskedTextBox1.pdb
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\bin\Debug\MaskedTextBox1.xml
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Form1.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Resources.resources
+E:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.vbproj.GenerateResource.Cache
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\bin\Debug\MaskedTextBox1.exe
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\bin\Debug\MaskedTextBox1.pdb
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\bin\Debug\MaskedTextBox1.xml
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Form1.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Resources.resources
+F:\_DI\01-02-03-DRSP\Cap11_\Cap11_Formularios\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.vbproj.GenerateResource.Cache
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.exe
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.xml
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox1.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_MaskedTextBox\MaskedTextBox1\bin\Debug\MaskedTextBox1.exe
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_MaskedTextBox\MaskedTextBox1\bin\Debug\MaskedTextBox1.pdb
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_MaskedTextBox\MaskedTextBox1\bin\Debug\MaskedTextBox1.xml
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Form1.resources
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\MaskedTextBox.Resources.resources
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Elorrieta\Goiko ziklo Plataforma anitzeko aplikazioen garatzea 2\0488-Interfazeen garapena\_UD_7 Forms\011_MaskedTextBox\MaskedTextBox1\obj\x86\Debug\GenerateResource.write.1.tlog

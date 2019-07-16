@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+
+
+  <siteMapNode url="Hasiera.aspx" title="Hasiera" description="Hasiera orria">
+
+    <siteMapNode url="Liburuak.aspx" title="Liburuak" description="Liburuak">
+      <siteMapNode url="Lurtarrak.aspx" title="Lurtarrak" description="Lurtarrak - Xabier Monasterio" />
+      <siteMapNode url="Maggie.aspx" title="Maggie, kaleko neska bat" description="Maggie, kaleko neska bat – Stephen Crane" />
+      <siteMapNode url="Piztiak.aspx" title="Piztiak eta piztitzarrak" description="Piztiak eta piztitzarrak – SakiPiztiak eta piztitzarrak – Saki" />
+      <siteMapNode url="Komikiak.aspx" title="Komikiak" description="Komikiak">
+        <siteMapNode url="GabrielAresti.aspx" title="Gabriel Aresti BioGrafikoa"  description="Gabriel Aresti BioGrafikoa – Adur Larrea" />
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="Diskoak.aspx" title="Diskoak" description="Diskoak eta DVD">
+      <siteMapNode url="Bidexka.aspx" title="Bidexka" description="Bidexka – Aire Ahizpak" />
+      <siteMapNode url="Andrazkubak.aspx" title="Andrazkubak" description="Andrazkubak – D’Capricho" />
+    </siteMapNode>
+
+    <siteMapNode url="Aldizkariak.aspx" title="Aldizkariak eta egunkariak" description="Aldizkariak eta egunkariak">
+      <siteMapNode url="Berria.aspx" title="Berria" description="Berria" />
+      <siteMapNode url="Argia .aspx" title="Argia " description="Argia " />
+    </siteMapNode>
+
+  </siteMapNode>
+
+
+</siteMap>
